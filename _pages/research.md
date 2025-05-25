@@ -6,13 +6,19 @@ permalink: /research/
 
 ### Working Papers
 
-- **[Preferences for the Resolution of Risk and Ambiguity](#)**  
+- **[Preferences for the Resolution of Risk and Ambiguity](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4092231)**  
   with Alexander L. Brown and Huiyi Guo  
   _R&R (3rd Round), Journal of Economic Theory_
+  
+- **[Ambiguity Vulnerability](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4655454)**  
+  with Mahdi Akbari, Vinayak Alladi, and Agnieszka Tymula  
+  _R&R, Journal of Economic Behavior & Organization_
 
-- **[Motivated Reasoning and the Timing of Informativeness](#)**  
+
+- **[Timing of Informativeness on Motivated Reasoning](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5043225)**  
   with Sora Youn  
   _R&R, Games and Economic Behavior_
+  
 
 ---
 
