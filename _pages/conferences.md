@@ -13,7 +13,7 @@ author_profile: true
 
 **2023** National Taipei University (Virtual), Asia-Pacific Economic Science Association Conference (Seoul, Korea), Annual Australia New Zealand Workshop in Experimental Economics (Melbourne, Australia), The Korean Econometric Society Monthly Seminar (Virtual)
 
-**2022**> World Economic Science Association Conference (Boston, Massachusetts, US), Society for Experimental Finance Conference (Bonn, Germany), Foundations of Utility and Risk Conference (Ghent, Belgium), The Korea-America Economic Association Job Market Conference (Virtual), Texas Economic Theory Camp (Houston, Texas, US), Economic Science Association North American Conference (Santa Barbara, California, US), Economic Science Association Job Market Seminar (Virtual)
+**2022** World Economic Science Association Conference (Boston, Massachusetts, US), Society for Experimental Finance Conference (Bonn, Germany), Foundations of Utility and Risk Conference (Ghent, Belgium), The Korea-America Economic Association Job Market Conference (Virtual), Texas Economic Theory Camp (Houston, Texas, US), Economic Science Association North American Conference (Santa Barbara, California, US), Economic Science Association Job Market Seminar (Virtual)
 
 **2021** Economic Science Association Global Online Around-the-Clock Conference (Virtual), Economic Science Association North American Conference (Tucson, Arizona, US), European Winter Meetings of the Econometric Society (Virtual)
 
