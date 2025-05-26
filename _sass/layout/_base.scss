@@ -115,15 +115,20 @@ blockquote {
 /* links */
 
 a {
-  &:focus {
-    @extend %tab-focus;
+  color: var(--global-link-color);
+  text-decoration: none;
+
+  &:hover {
+    color: var(--global-link-color-hover);
+    text-decoration: underline;
   }
 
-  &:hover,
+  &:focus,
   &:active {
     outline: 0;
   }
 }
+
 
 /* code */
 
