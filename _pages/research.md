@@ -20,6 +20,15 @@ author_profile: true
   with Sora Youn  
   **_R&R, Games and Economic Behavior_**
   
+- [Signal Space and Valuation of Information](https://papers.hyundamje.com/Signal_Space.pdf)  
+  with Daeyoung Jeong
+
+- [Socioeconomic Status and Risk-Taking Behaviors: Evidence from Online Gambling]()    
+  with Sally Gainsbury, Robert Heirene, Emily Shaw, and Agnieszka Tymula
+  
+- [Preferences over Ambiguity in Vaccination Decision]()    
+  with Alexander L. Brown, Ceyhun Eksin, and Martial Ndeffo Mbah 
+   
 
 ---
 
