@@ -22,7 +22,7 @@ repository               : "hyundamje/hyundamje.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/Olaf.png"
+  avatar           : "images/olaf.png"
   name             : "Hyundam Je"
   pronouns         : # example: "she/her"  
   bio              : "In the process of moving my website from Google Sites."
