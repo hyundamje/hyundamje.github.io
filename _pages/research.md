@@ -7,7 +7,7 @@ author_profile: true
 
 ### Working Papers
 
-- [Preferences for the Resolution of Risk and Ambiguity](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4092231)
+- ["Preferences for the Resolution of Risk and Ambiguity"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4092231)  
   with Alexander L. Brown and Huiyi Guo  
   **_R&R (3rd Round), Journal of Economic Theory_**
   
