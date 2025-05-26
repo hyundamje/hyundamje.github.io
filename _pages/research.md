@@ -8,13 +8,12 @@ author_profile: true
 ### Working Papers
 
 - [Preferences for the Resolution of Risk and Ambiguity](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4092231)
-- with Alexander L. Brown and Huiyi Guo  
+  with Alexander L. Brown and Huiyi Guo  
   **_R&R (3rd Round), Journal of Economic Theory_**
   
 - [Ambiguity Vulnerability](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4655454)  
-- with Mahdi Akbari, Vinayak Alladi, and Agnieszka Tymula  
+  with Mahdi Akbari, Vinayak Alladi, and Agnieszka Tymula  
   **_R&R, Journal of Economic Behavior & Organization_**
-
 
 - [Timing of Informativeness on Motivated Reasoning](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5043225)  
   with Sora Youn  
@@ -24,7 +23,7 @@ author_profile: true
   with Daeyoung Jeong
 
 - [Socioeconomic Status and Risk-Taking Behaviors: Evidence from Online Gambling]()  
-- with Sally Gainsbury, Robert Heirene, Emily Shaw, and Agnieszka Tymula
+  with Sally Gainsbury, Robert Heirene, Emily Shaw, and Agnieszka Tymula
   
 - [Preferences over Ambiguity in Vaccination Decision]()    
   with Alexander L. Brown, Ceyhun Eksin, and Martial Ndeffo Mbah 
