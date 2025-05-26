@@ -7,11 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-<div style="display: flex; align-items: flex-start; gap: 30px; flex-wrap: wrap;">
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 30px; margin-top: 20px;">
 
-  <img src="/images/usyd3.jpg" alt="Hyundam Je" width="300" style="border-radius: 10px;"/>
+  <div style="text-align: center;">
+    <img src="/images/usyd3.jpg" alt="Hyundam Je" width="300" style="border-radius: 10px;"/>
+  </div>
 
-  <div>
+  <div style="max-width: 700px; margin-top: 20px;">
     <p>Welcome! My name is Hyundam Je (제현담 諸炫潭), where 'Hyun' (현炫) means “blue” and 'Dam' (담潭) means “lake.”</p>
 
 
