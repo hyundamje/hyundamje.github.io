@@ -7,8 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-<div style="text-align: center; margin-top: 20px;">
-  <img src="/images/usyd3.jpg" alt="Hyundam Je" width="300" style="border-radius: 10px;"/>
+<div style="margin-top: 20px;">
+  <img src="/images/usyd3.jpg" alt="Hyundam Je" width="300"
+       style="border-radius: 10px; display: block; margin: 0 auto;" />
 </div>
 
 <div style="max-width: 700px; margin: 30px auto;">
