@@ -5,37 +5,28 @@ permalink: /conferences/
 author_profile: true
 ---
 
-### Working Papers
+### Seminar and Conference Presentations
 
-- ["Preferences for the Resolution of Risk and Ambiguity"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4092231)  
-  with Alexander L. Brown and Huiyi Guo  
-  **_R&R (3rd Round), Journal of Economic Theory_**
-  
-- ["Ambiguity Vulnerability"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4655454)  
-  with Mahdi Akbari, Vinayak Alladi, and Agnieszka Tymula  
-  **_R&R, Journal of Economic Behavior & Organization_**
+**2025** Binghamton University (Binghamton, New York, US), Asia-Pacific Economic Science Association Conference (Osaka, Japan), University of Melbourne (Virtual), Heidelberg University (Virtual), Kyung Hee University (Virtual)
 
-- ["Timing of Informativeness on Motivated Reasoning"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5043225)  
-  with Sora Youn  
-  **_R&R, Games and Economic Behavior_**
-  
-- ["Signal Space and Valuation of Information"](https://papers.hyundamje.com/Signal_Space.pdf)  
-  with Daeyoung Jeong
+**2024** Australian Gender Economics Workshop (Discussant) (Sydney, Australia), Korea Experimental and Behavioral Economics Association Winter Workshop (Seoul, Korea), NUS Applied Economics Student Workshop (Virtual), Sydney Experimental Brownbag Seminar (Sydney, Australia), Asia-Pacific Economic Science Association Conference (Singapore), Caltech Behavioral/Experimental Workshop (Pasadena, California, US), Pre-FUR Sydney Neuroeconomics of Disadvantage Workshop (Sydney, Australia), Foundations of Utility and Risk Conference (Brisbane, Australia), Annual Australia New Zealand Workshop in Experimental Economics (Canberra, Australia), Economic Science Association North American Conference (Columbus, Ohio, US)
 
-- ["Socioeconomic Status and Risk-Taking Behaviors: Evidence from Online Gambling"]()  
-  with Sally Gainsbury, Robert Heirene, Emily Shaw, and Agnieszka Tymula
-  
-- ["Stress and Time Discounting"]()    
-  with Stephen Cheung, Arquette Milin-Byrne, and Agnieszka Tymula
-   
-- ["Preferences over Ambiguity in Vaccination Decision"]()    
-  with Alexander L. Brown, Ceyhun Eksin, and Martial Ndeffo Mbah 
-   
+**2023** National Taipei University (Virtual), Asia-Pacific Economic Science Association Conference (Seoul, Korea), Annual Australia New Zealand Workshop in Experimental Economics (Melbourne, Australia), The Korean Econometric Society Monthly Seminar (Virtual)
+
+**2022**> World Economic Science Association Conference (Boston, Massachusetts, US), Society for Experimental Finance Conference (Bonn, Germany), Foundations of Utility and Risk Conference (Ghent, Belgium), The Korea-America Economic Association Job Market Conference (Virtual), Texas Economic Theory Camp (Houston, Texas, US), Economic Science Association North American Conference (Santa Barbara, California, US), Economic Science Association Job Market Seminar (Virtual)
+
+**2021** Economic Science Association Global Online Around-the-Clock Conference (Virtual), Economic Science Association North American Conference (Tucson, Arizona, US), European Winter Meetings of the Econometric Society (Virtual)
+
+### Workshop Participations
+
+
+- The 3rd Caltech Summer School in Theory-Based Experiments (Pasadena, California, US), 2024  
+- UChicago & SNU Summer School on Socioeconomic Opportunity and Inequality (Seoul, Korea), 2023  
+- The 33rd Advanced School in Economic Theory (Jerusalem, Israel), 2023  
+- NHH & UCSD Spring School in Behavioral Economics (San Diego, California, US), 2022  
 
 ---
 
-### Selected Work in Progress
-
-- ["First Impressions Last: Order of Information in Politicized Motivated Reasoning"]()    
-  with Daeyoung Jeong and Sora Youn   
-  _Data Acquisition Completed_  
+<div style="text-align: center; font-size: 90%; margin-top: 2em;">
+The title of this page references <a href="https://sites.google.com/view/giovanniburro/have-we-met" target="_blank">Giovanni Burro</a>, whom I met at ESA Singapore 2024
+</div>
