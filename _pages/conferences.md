@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Research"
-permalink: /research/
+title: "Yes! We've met at.."
+permalink: /conferences/
 author_profile: true
 ---
 
