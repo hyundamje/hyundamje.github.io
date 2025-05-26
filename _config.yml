@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "Hyundam Je "
 title_separator          : "-"
 name                     : &hyundamje "Your Name"
 description              : &description "personal description"
@@ -26,10 +26,10 @@ author:
   name             : "Hyundam Je"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Sydney"
+  employer         : "University of Sydney"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "hyundamje@gmail.com" 
 
   # Academic websites
   academia         : # URL
