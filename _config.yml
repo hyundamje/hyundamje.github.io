@@ -8,7 +8,19 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default"
+#site_theme               : "default"
+remote_theme: "mmistakes/minimal-mistakes"
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-include-cache
+  - jekyll-archives
+  - jemoji
+  - jekyll-paginate
+  - jekyll-redirect-from
+
+
 title                    : "Home"
 title_separator          : "-"
 name                     : &hyundamje "Your Name"
