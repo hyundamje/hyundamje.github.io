@@ -7,7 +7,6 @@ author_profile: true
 nav_exclude: true
 ---
 
-여기에 논문 하나하나 수동으로 써둠
 ### Working Papers
 
 - ["Preferences for the Resolution of Risk and Ambiguity"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4092231)  
