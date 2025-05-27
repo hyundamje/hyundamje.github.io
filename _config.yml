@@ -20,6 +20,8 @@ plugins:
   - jekyll-paginate
   - jekyll-redirect-from
 
+minimal_mistakes_skin: "default"
+
 
 title                    : "Home"
 title_separator          : "-"
