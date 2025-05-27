@@ -22,7 +22,6 @@ plugins:
 
 minimal_mistakes_skin: "default"
 
-
 title                    : "Home"
 title_separator          : "-"
 name                     : &hyundamje "Your Name"
