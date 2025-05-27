@@ -4,7 +4,6 @@ layout: single
 title: "Research"
 permalink: /research/
 author_profile: true
-nav_exclude: true
 ---
 
 ### Working Papers
