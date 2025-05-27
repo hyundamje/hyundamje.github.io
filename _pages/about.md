@@ -1,5 +1,6 @@
 ---
 permalink: /
+layout: splash
 title: "Welcome!"
 author_profile: true
 redirect_from: 
