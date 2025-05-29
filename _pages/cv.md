@@ -8,8 +8,7 @@ redirect_from:
 ---
 
 ---
-
-###
+<br>
 
 [Full CV (PDF)](https://hyundamje.github.io/papers/cv_je.pdf)
 
