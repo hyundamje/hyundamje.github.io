@@ -1,7 +1,7 @@
 ---
 layout: single
-title: "Others"
-permalink: /others/
+title: "Other"
+permalink: /other/
 author_profile: true
 ---
 
