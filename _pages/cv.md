@@ -12,7 +12,7 @@ redirect_from:
 [Full CV (PDF)](https://hyundamje.github.io/papers/cv_je.pdf)
 
 ### Academic Positions
-* Research Fellow, School of Economics, University of Sydney, 2023-
+* Research Fellow, School of Economics, University of Sydney, 2023– 
   
 ### Education
 * Ph.D. in Economics, Texas A&M University (College Station, Texas, US), 2023   
