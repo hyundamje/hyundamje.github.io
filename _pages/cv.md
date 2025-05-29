@@ -16,7 +16,7 @@ redirect_from:
   
 ### Education
 * Ph.D. in Economics, Texas A&M University (College Station, Texas, US), 2023   
-   * Committee: Alexander L. Brown (advisor), Catherine Eckel, Huiyi Guo, and Hwagyun Kim
+    <span style="margin-top:-0.3em; display:block; font-size:90%;">– Committee: Alexander L. Brown (advisor), Catherine Eckel, Huiyi Guo, and Hwagyun Kim
 * M.S. in Economics, Sungkyunkwan University (Seoul, Korea), 2017
 * B.S. in Economics, Sungkyunkwan University (Seoul, Korea), 2015
 
