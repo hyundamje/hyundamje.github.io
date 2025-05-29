@@ -23,7 +23,7 @@ nav_exclude: true
   **_R&R, Games and Economic Behavior_**
   
 - ["Signal Space and Valuation of Information"](https://papers.hyundamje.com/Signal_Space.pdf)  
-  with Daeyoung Jeong
+  (with Daeyoung Jeong)
 
 - ["Socioeconomic Status and Risk-Taking Behaviors: Evidence from Online Gambling"]()  
   (with Sally Gainsbury, Robert Heirene, Emily Shaw, and Agnieszka Tymula)
