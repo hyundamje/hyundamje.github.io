@@ -7,6 +7,6 @@ author_profile: true
 
 ---
 
-### Others
+### Other
 
-Others
+Other
