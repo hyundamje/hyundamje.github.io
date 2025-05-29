@@ -8,9 +8,9 @@ redirect_from:
 ---
 
 {% include base_path %}
-<div style="margin-bottom: 0.75em;">
+<p style="margin-bottom: 1em;">
   <a href="https://hyundamje.github.io/papers/cv_je.pdf">Full CV (PDF)</a>
-</div>
+</p>
 
 
 ### Academic Positions
