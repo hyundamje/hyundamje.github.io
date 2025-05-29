@@ -9,9 +9,9 @@ author_profile: true
 
 ### Seminar and Conference Presentations
 
-**2025** Binghamton University (Binghamton, New York, US), Asia-Pacific Economic Science Association Conference (Osaka, Japan), University of Melbourne (Virtual), Heidelberg University (Virtual), Kyung Hee University (Virtual)
+- <span style="color:#2a7ae2"><strong>2025</strong></span> Binghamton University (Binghamton, New York, US), Asia-Pacific Economic Science Association Conference (Osaka, Japan), University of Melbourne (Virtual), Heidelberg University (Virtual), Kyung Hee University (Virtual)
 
-**2024** Australian Gender Economics Workshop (Discussant) (Sydney, Australia), Korea Experimental and Behavioral Economics Association Winter Workshop (Seoul, Korea), NUS Applied Economics Student Workshop (Virtual), Sydney Experimental Brownbag Seminar (Sydney, Australia), Asia-Pacific Economic Science Association Conference (Singapore), Caltech Behavioral/Experimental Workshop (Pasadena, California, US), Pre-FUR Sydney Neuroeconomics of Disadvantage Workshop (Sydney, Australia), Foundations of Utility and Risk Conference (Brisbane, Australia), Annual Australia New Zealand Workshop in Experimental Economics (Canberra, Australia), Economic Science Association North American Conference (Columbus, Ohio, US)
+- **2024** Australian Gender Economics Workshop (Discussant) (Sydney, Australia), Korea Experimental and Behavioral Economics Association Winter Workshop (Seoul, Korea), NUS Applied Economics Student Workshop (Virtual), Sydney Experimental Brownbag Seminar (Sydney, Australia), Asia-Pacific Economic Science Association Conference (Singapore), Caltech Behavioral/Experimental Workshop (Pasadena, California, US), Pre-FUR Sydney Neuroeconomics of Disadvantage Workshop (Sydney, Australia), Foundations of Utility and Risk Conference (Brisbane, Australia), Annual Australia New Zealand Workshop in Experimental Economics (Canberra, Australia), Economic Science Association North American Conference (Columbus, Ohio, US)
 
 **2023** National Taipei University (Virtual), Asia-Pacific Economic Science Association Conference (Seoul, Korea), Annual Australia New Zealand Workshop in Experimental Economics (Melbourne, Australia), The Korean Econometric Society Monthly Seminar (Virtual)
 
