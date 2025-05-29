@@ -40,5 +40,5 @@ nav_exclude: true
 ### Selected Work in Progress
 
 - ["First Impressions Last: Order of Information in Politicized Motivated Reasoning"]()    
-  with Daeyoung Jeong and Sora Youn   
+  (with Daeyoung Jeong and Sora Youn)   
   _Data Acquisition Completed_  
