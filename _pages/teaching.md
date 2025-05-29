@@ -5,6 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
+---
 
 ### Texas A&M University, 2018–2022
 
