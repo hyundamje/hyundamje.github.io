@@ -28,12 +28,12 @@ nav_exclude: true
 - ["Socioeconomic Status and Risk-Taking Behaviors: Evidence from Online Gambling"]()  
   (with Sally Gainsbury, Robert Heirene, Emily Shaw, and Agnieszka Tymula)
   
-- ["Stress and Time Preferences"]()    
+- <span style="color: #2a7ae2;">"Stress and Time Preferences"</span>   
   (with Stephen Cheung, Arquette Milin-Byrne, and Agnieszka Tymula)
-   
-- ["Preferences over Ambiguity in Vaccination Decision"]()    
+
+- <span style="color: #2a7ae2;">"Preferences over Ambiguity in Vaccination Decision"</span>       
   (with Alexander L. Brown, Ceyhun Eksin, and Martial Ndeffo Mbah) 
-   ㅇ
+   
 
 ---
 
