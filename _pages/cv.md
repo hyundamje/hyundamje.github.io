@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[📄 Download CV (PDF)](https://hyundamje.github.io/papers/cv_je.pdf)
+[PDF: Curriculum Vitae](https://hyundamje.github.io/papers/cv_je.pdf)
 
 ### Academic Positions
 * Research Fellow, School of Economics, University of Sydney, 2023-
