@@ -33,12 +33,12 @@ nav_exclude: true
    
 - ["Preferences over Ambiguity in Vaccination Decision"]()    
   (with Alexander L. Brown, Ceyhun Eksin, and Martial Ndeffo Mbah) 
-   
+   ㅇ
 
 ---
 
 ### Selected Work in Progress
 
-- ["First Impressions Last: Order of Information in Politicized Motivated Reasoning"]()    
+- <span style="color: #2a7ae2;">"First Impressions Last: Order of Information in Politicized Motivated Reasoning"</span>      
   (with Daeyoung Jeong and Sora Youn)   
   _Data Acquisition Completed_  
