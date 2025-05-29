@@ -8,7 +8,9 @@ redirect_from:
 ---
 
 ---
-<br>
+<a href="https://hyundamje.github.io/papers/cv_je.pdf" style="display:block; margin-top: 0.5em; margin-bottom: 1em;">
+  Full CV (PDF)
+</a>
 
 [Full CV (PDF)](https://hyundamje.github.io/papers/cv_je.pdf)
 
