@@ -9,7 +9,7 @@ redirect_from:
 
 ---
 
-<div style="margin-left: 2em; margin-top: 2em; margin-bottom: 2em;">
+<div style="margin-left: 1.2em; margin-top: 2em; margin-bottom: 2em;">
   <a href="https://hyundamje.github.io/papers/cv_je.pdf"> Full CV (PDF)</a>
 </div>
 
