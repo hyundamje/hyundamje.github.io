@@ -1,8 +1,10 @@
 ---
-layout: archive
+layout: single
 title: "Yes! We've met at.."
 permalink: /conferences/
 author_profile: true
+---
+
 ---
 
 ### Seminar and Conference Presentations
