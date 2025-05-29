@@ -9,14 +9,9 @@ redirect_from:
 
 ---
 
-<div style="margin-top: 1.5em; margin-bottom: 0.5em;">
-  <a href="https://hyundamje.github.io/papers/cv_je.pdf">📄 Full CV (PDF)</a>
+<div style="margin-left: 2em; margin-top: 1.5em; margin-bottom: 1em;">
+  <a href="https://hyundamje.github.io/papers/cv_je.pdf"> Full CV (PDF)</a>
 </div>
-
-<a href="https://hyundamje.github.io/papers/cv_je.pdf" style="display:block; margin-top: 1em; margin-bottom: 1em;">
-  Full CV (PDF)
-</a>
-
 
 ### Academic Positions
 * Research Fellow, School of Economics, University of Sydney, 2023– 
