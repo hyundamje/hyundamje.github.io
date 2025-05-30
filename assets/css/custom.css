@@ -1,9 +1,4 @@
 .greedy-nav .visible-links > li:not(.persist):not(#theme-toggle) {
-  visibility: hidden !important;
-  height: 0 !important;
-  overflow: hidden !important;
-  pointer-events: none !important;
-  margin: 0 !important;
-  padding: 0 !important;
-  border: 0 !important;
+  position: absolute !important;
+  left: -9999px !important;
 }
