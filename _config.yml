@@ -347,5 +347,6 @@ compress_html:
     envs: development
 
 
+favicon: "/bulb.ico"
 
 
