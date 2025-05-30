@@ -1,4 +1,6 @@
-.greedy-nav .visible-links > li:not(.persist):not(#theme-toggle) {
-  position: absolute !important;
-  left: -9999px !important;
+@media (max-width: 768px) {
+  /* 모바일에서 visible 항목 전부 숨기기 (햄버거만 남기기) */
+  .greedy-nav .visible-links > li:not(.persist):not(#theme-toggle) {
+    display: none !important;
+  }
 }
