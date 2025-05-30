@@ -360,3 +360,18 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+
+
+# Disable automatic collection nav links
+collections:
+  research:
+    output: true
+    permalink: /:collection/:path/
+    nav_exclude: true
+  teaching:
+    output: true
+    permalink: /:collection/:path/
+    nav_exclude: false
+
+
