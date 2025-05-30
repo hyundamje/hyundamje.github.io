@@ -14,3 +14,10 @@
     background-color: white !important;
   }
 }
+
+/* 모바일에서는 상단 nav에서 Research만 숨기고, 햄버거 메뉴에서는 보이게 함 */
+@media (max-width: 768px) {
+  .greedy-nav a[href*="/research/"] {
+    display: none !important;
+  }
+}
