@@ -1,9 +1,9 @@
-/* 모든 visible 메뉴 항목을 상단바에서 숨긴다 (모두 햄버거로 이동) */
-.greedy-nav .visible-links > li:not(.persist):not(#theme-toggle) {
-  display: none !important;
-}
 
-/* Research도 강제로 숨기기 */
-.greedy-nav .visible-links > li > a[href="/research/"] {
-  display: none !important;
+@media (max-width: 9999px) {
+  .greedy-nav .visible-links > li:not(.persist):not(#theme-toggle) {
+    max-width: 0 !important;
+    opacity: 0 !important;
+    overflow: hidden !important;
+    pointer-events: none !important;
+  }
 }
