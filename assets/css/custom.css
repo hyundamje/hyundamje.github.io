@@ -1,7 +1,0 @@
-@media (max-width: 768px) {
-  /* 눈에 안 보이지만 greedy-nav에게는 "존재하는 메뉴"로 인식시키기 */
-  .greedy-nav .visible-links > li:not(.persist):not(#theme-toggle) {
-    position: absolute !important;
-    left: -9999px !important;
-  }
-}
