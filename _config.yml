@@ -225,25 +225,15 @@ kramdown:
   enable_coderay: false
 
 
-# These settings control the types of collections used by the template
-#collections:
-#  research:
-#    output: true
-#    permalink: /:collection/:path/
-#  teaching:
- #   output: true
- #   permalink: /:collection/:path/
-
-# Disable automatic collection nav links
+ These settings control the types of collections used by the template
 collections:
   research:
     output: true
     permalink: /:collection/:path/
-    nav_exclude: true
   teaching:
     output: true
-    permalink: /:collection/:path/
-    nav_exclude: true
+  permalink: /:collection/:path/
+
 
 
 
