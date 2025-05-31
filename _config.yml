@@ -22,7 +22,7 @@ plugins:
 
 # minimal_mistakes_skin: "default"
 
-title                    : "Hyundam Je ◦ Economist"
+title                    : "Hyundam Je from Seoul"
 title_separator          : "-"
 name                     : &hyundamje "Hyundam Je"
 description              : &description "behavioral economist"
