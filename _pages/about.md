@@ -19,8 +19,10 @@ redirect_from:
 
   <p>Welcome! My name is Hyundam Je (제현담 諸炫潭), where 'Hyun' (현炫) means blue and 'Dam' (담潭) means lake.</p>
 
-  <p>I am a Research Fellow at the School of Economics at the University of Sydney working with <a href="https://www.tymula.com/agnieszka/" target="_blank">Agnieszka Tymula</a>. My primary research interests lie in behavioral economics, experimental economics, and bounded rationality. I have explored individual decision-making in various domains, including information acquisition, uncertainty resolution, motivated reasoning, and gambling biases, primarily using experimental methodology. I received my PhD in Economics from Texas A&M University in 2023, under the supervision of <a href="http://people.tamu.edu/~alexbrown/" target="_blank">Alex Brown</a>.</p>
+  <p>I am a Research Fellow at the School of Economics at the University of Sydney working with <a href="https://www.tymula.com/agnieszka/" target="_blank">Agnieszka Tymula</a>. I'm a behavioral economist studying how people make decisions under uncertainty, limited information, and cognitive constraints, mostly using experimental methods. I received my PhD in Economics from Texas A&M University in 2023, under the supervision of <a href="http://people.tamu.edu/~alexbrown/" target="_blank">Alex Brown</a>.</p>
 
   <p>As a guitar player, I’ve been deeply influenced by John Mayer, John Frusciante, and Jimi Hendrix.</p>
+
+   <p>Feel free to reach out!  <a href="mailto:hyundamje@gmail.com">hyundamje@gmail.com</a></p>
 
 </div>
