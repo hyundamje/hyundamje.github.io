@@ -23,6 +23,6 @@ redirect_from:
 
   <p>As a guitar player, I’ve been deeply influenced by John Mayer, John Frusciante, and Jimi Hendrix.</p>
 
-  <p>I’m always happy to talk about research, ideas, or anything else. Feel free to reach out!  <a href="mailto:hyundamje@gmail.com">hyundamje@gmail.com</a></p>
+  <p>I’m always happy to chat about research, ideas, or anything else. Feel free to reach out!  <a href="mailto:hyundamje@gmail.com">hyundamje@gmail.com</a></p>
 
 </div>
