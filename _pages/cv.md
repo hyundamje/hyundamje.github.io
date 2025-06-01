@@ -21,7 +21,7 @@ redirect_from:
   
 ### Education
 * Ph.D. in Economics, Texas A&M University (College Station, Texas, US), 2023   
-    <span style="margin-top:-0.3em; display:block; font-size:90%;">– Committee: [Alexander L. Brown](https://people.tamu.edu/~alexbrown/) (advisor), [Catherine Eckel](https://sites.google.com/site/eckelcatherine/), [Huiyi Guo](https://guohuiyi.com), and [Hwagyun Kim](https://people.tamu.edu/~hagenkim/)
+    <span style="margin-top:-0.3em; display:block; font-size:90%;">– Committee: [Alex Brown](https://people.tamu.edu/~alexbrown/) (advisor), [Catherine Eckel](https://sites.google.com/site/eckelcatherine/), [Huiyi Guo](https://guohuiyi.com), and [Hwagyun Kim](https://people.tamu.edu/~hagenkim/)
 * M.A. in Economics, Sungkyunkwan University (Seoul, Korea), 2017
 * B.A. in Economics, Sungkyunkwan University (Seoul, Korea), 2015
 
