@@ -7,24 +7,19 @@ author_profile: true
 
 ---
 
-### Texas A&M University, 2018–2022
+### Instructor
+- *Games and Economic Behavior* (Undergraduate, Texas A&M University)
 
-- **Instructor**  
-  Games and Economic Behavior (Undergraduate, Spring 2021)
+### Teaching Assistant
+- *Principles of Microeconomics* (Undergraduate, Texas A&M University)  
+- *Behavioral Financial Economics* (Master’s, Texas A&M University)  
+- *Experimental Economics* (PhD, Texas A&M University)  
+- *Games and Economic Behavior* (Undergraduate, Texas A&M University)  
+- *Antitrust Economics* (Undergraduate, Texas A&M University)  
+- *Microeconomic Theory I* (PhD, Texas A&M University)  
+- *Macroeconomics* (Undergraduate, Sungkyunkwan University)  
+- *Microeconomics* (Undergraduate, Sungkyunkwan University)  
+- *Microeconomics 2* (Graduate, Sungkyunkwan University)  
+- *Mathematical Economics* (Undergraduate, Sungkyunkwan University)
 
-- **Teaching Assistant**  
-  Principles of Microeconomics (Undergraduate, Summer 2022)  
-  Behavioral Financial Economics (Master's, Fall 2019, Fall 2020, Fall 2021, Fall 2022)  
-  Experimental Economics (PhD, Fall 2020)  
-  Games and Economic Behavior (Undergraduate, Fall 2019, Spring 2020)  
-  Antitrust Economics (Undergraduate, Spring 2019)  
-  Microeconomic Theory I (PhD, Fall 2018)
-
-### Sungkyunkwan University, 2015–2016
-
-- **Teaching Assistant**  
-  Macroeconomics (Undergraduate, Fall 2016)  
-  Microeconomics (Undergraduate, Spring 2016)  
-  Microeconomics 2 (Graduates, Fall 2015, Fall 2016)  
-  Mathematical Economics (Undergraduate, Fall 2015, Fall 2016)
 
