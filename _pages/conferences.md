@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Yes! We've met at.."
+title: "yes! we've met at"
 permalink: /conferences/
 author_profile: true
 ---
