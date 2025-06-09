@@ -27,9 +27,6 @@ author_profile: true
 - ["Socioeconomic Status and Risk-Taking Behaviors: Evidence from Online Gambling"]()  
   (with Sally Gainsbury, Robert Heirene, Emily Shaw, and Agnieszka Tymula)
   
-- <span style="color: #2a7ae2;">"Stress and Time Preferences"</span>   
-  (with Stephen Cheung, Arquette Milin-Byrne, and Agnieszka Tymula)
-
 - <span style="color: #2a7ae2;">"Preferences over Ambiguity in Vaccination Decision"</span>       
   (with Alexander L. Brown, Ceyhun Eksin, and Martial Ndeffo Mbah) 
    
@@ -37,6 +34,12 @@ author_profile: true
 
 ### Selected Work in Progress
 
+- <span style="color: #2a7ae2;">"Stress and Time Preferences"</span>   
+  (with Stephen Cheung, Arquette Milin-Byrne, and Agnieszka Tymula)   
+  _Data Acquisition Completed_
+  
 - <span style="color: #2a7ae2;">"First Impressions Last: Order of Information in Politicized Motivated Reasoning"</span>      
   (with Daeyoung Jeong and Sora Youn)   
-  _Data Acquisition Completed_  
+  _Data Acquisition Completed_
+
+  
