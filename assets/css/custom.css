@@ -1,3 +1,6 @@
-.greedy-nav .visible-links {
-  justify-content: center !important;
+.site-title,
+.site-title a,
+.masthead__menu,
+.masthead__menu a {
+  font-family: 'Source Serif 4', serif !important;
 }
