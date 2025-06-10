@@ -4,3 +4,11 @@
 .masthead__menu a {
   font-family: 'Noto Sans', sans-serif !important;
 }
+
+.author__name,
+.author__bio,
+.author__urls,
+.author__urls li,
+.author__urls a {
+  font-family: 'Noto Sans', sans-serif !important;
+}
