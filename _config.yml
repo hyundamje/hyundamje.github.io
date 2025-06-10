@@ -22,9 +22,9 @@ plugins:
 
 # minimal_mistakes_skin: "default"
 
-title                    : "hyundam je / economist"
+title                    : "Hyundam Je / Economist"
 title_separator          : "—"
-name                     : &hyundamje "Hyundam Je"
+name                     : &hyundamje "hyundam je"
 description              : &description "behavioral economist"
 url                      : https://hyundamje.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
