@@ -2,7 +2,7 @@
 .site-title a,
 .masthead__menu,
 .masthead__menu a {
-  font-family: 'Inter', sans-serif !important;
+  font-family: 'Helvetica', sans-serif !important;
 }
 
 .author__name,
@@ -10,5 +10,5 @@
 .author__urls,
 .author__urls li,
 .author__urls a {
-  font-family: 'Inter', sans-serif !important;
+  font-family: 'Helvetica', sans-serif !important;
 }
