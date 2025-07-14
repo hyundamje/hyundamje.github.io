@@ -9,7 +9,8 @@ author_profile: true
 
 ### Seminar and Conference Presentations
 
-- <span style="color:#2a7ae2"><strong>2025</strong></span> Binghamton University (Binghamton, New York, US), Asia-Pacific Economic Science Association Conference (Osaka, Japan), University of Melbourne (Online), Heidelberg University (Online), Kyung Hee University (Online), University of Seoul (Online), Summer Meeting of Korea Academic Society of Industrial Organization (Discussant) (Seoul, Korea), Sungkyunkwan University (Seoul, Korea)
+- <span style="color:#2a7ae2"><strong>2025*</strong></span> Binghamton University (Binghamton, New York, US), Asia-Pacific Economic Science Association Conference (Osaka, Japan), University of Melbourne (Online), Heidelberg University (Online), Kyung Hee University (Online), University of Seoul (Online), Summer Meeting of Korea Academic Society of Industrial Organization (Discussant) (Seoul, Korea), Sungkyunkwan University (Seoul, Korea)
+<small>*including scheduled presentations</small>
 
 - <span style="color:#2a7ae2"><strong>2024</strong></span> Australian Gender Economics Workshop (Discussant) (Sydney, Australia), Korea Experimental and Behavioral Economics Association Winter Workshop (Seoul, Korea), NUS Applied Economics Student Workshop (Online), Sydney Experimental Brownbag Seminar (Sydney, Australia), Asia-Pacific Economic Science Association Conference (Singapore), Caltech Behavioral/Experimental Workshop (Pasadena, California, US), Pre-FUR Sydney Neuroeconomics of Disadvantage Workshop (Sydney, Australia), Foundations of Utility and Risk Conference (Brisbane, Australia), Annual Australia New Zealand Workshop in Experimental Economics (Canberra, Australia), Economic Science Association North American Conference (Columbus, Ohio, US)
 
