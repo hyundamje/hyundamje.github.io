@@ -11,15 +11,15 @@ author_profile: true
 
 - ["Preferences for the Resolution of Risk and Ambiguity"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4092231)  
   (with Alexander L. Brown and Huiyi Guo)  
-  **R&R, Journal of Economic Theory**
+  **_R&R, Journal of Economic Theory_**
   
 - ["Ambiguity Vulnerability"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4655454)  
   (with Mahdi Akbari, Vinayak Alladi, and Agnieszka Tymula)  
-  **R&R, Journal of Economic Behavior & Organization**
+  **_R&R, Journal of Economic Behavior & Organization_**
 
 - ["Timing of Informativeness on Motivated Reasoning"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5043225)  
   (with Sora Youn)  
-  **R&R, Games and Economic Behavior**
+  **_R&R, Games and Economic Behavior_**
   
 - ["Signal Space and Valuation of Information"](https://papers.hyundamje.com/Signal_Space.pdf)  
   (with Daeyoung Jeong)
