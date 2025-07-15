@@ -11,7 +11,7 @@ author_profile: true
 
 - ["Preferences for the Resolution of Risk and Ambiguity"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4092231)  
   (with Alexander L. Brown and Huiyi Guo)  
-  **_R&R (3rd Round), Journal of Economic Theory_**
+  **R&R, Journal of Economic Theory**
   
 - ["Ambiguity Vulnerability"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4655454)  
   (with Mahdi Akbari, Vinayak Alladi, and Agnieszka Tymula)  
