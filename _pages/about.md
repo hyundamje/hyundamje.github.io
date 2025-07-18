@@ -17,7 +17,6 @@ redirect_from:
 
 <div style="max-width: 700px; margin: 30px auto;">
   
-<p>Welcome! My name is Hyundam Je (제현담/諸炫潭), where Hyun (현/炫) means "shimmering" and Dam (담/潭) means "lake."</p>
 <p> Welcome! My name is Hyundam Je (<span style="font-size: 0.9em;">제현담/諸炫潭</span>), where Hyun (<span style="font-size: 0.9em;">현/炫</span>) means "shimmering" and Dam (<span style="font-size: 0.9em;">담/潭</span>) means "lake."
 </p>
 
