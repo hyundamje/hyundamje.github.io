@@ -21,7 +21,7 @@ author_profile: true
   (with Sora Youn)  
   **R&R, Games and Economic Behavior**
   
-- ["Does the Size of the Signal Space Matter?"](https://papers.hyundamje.com/Signal_Space.pdf)  
+- ["Does the Size of the Signal Space Matter?"](https://hyundamje.github.io/papers/Signal_Space.pdf)  
   (with Daeyoung Jeong)
 
 - ["Socioeconomic Status and Risk-Taking Behaviors: Evidence from Online Gambling"]()  
