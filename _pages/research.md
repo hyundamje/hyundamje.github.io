@@ -21,22 +21,21 @@ author_profile: true
   (with Sora Youn)  
   **R&R, Games and Economic Behavior**
   
-- ["Signal Space and Valuation of Information"](https://papers.hyundamje.com/Signal_Space.pdf)  
+- ["Does the Size of the Signal Space Matter?"](https://papers.hyundamje.com/Signal_Space.pdf)  
   (with Daeyoung Jeong)
 
 - ["Socioeconomic Status and Risk-Taking Behaviors: Evidence from Online Gambling"]()  
   (with Sally Gainsbury, Robert Heirene, Emily Shaw, and Agnieszka Tymula)
-  
+
+- ["Time Preferences under Stress"]()  
+  (with Stephen Cheung, Arquette Milin-Byrne, and Agnieszka Tymula)   
+    
 - <span style="color: #2a7ae2;">"Preferences over Ambiguity in Vaccination Decision"</span>       
   (with Alexander L. Brown, Ceyhun Eksin, and Martial Ndeffo Mbah) 
    
 
 
 ### Selected Work in Progress
-
-- <span style="color: #2a7ae2;">"Stress and Time Preferences"</span>   
-  (with Stephen Cheung, Arquette Milin-Byrne, and Agnieszka Tymula)   
-  _Data Acquisition Completed_
   
 - <span style="color: #2a7ae2;">"First Impressions Last: Order of Information in Politicized Motivated Reasoning"</span>      
   (with Daeyoung Jeong and Sora Youn)   
