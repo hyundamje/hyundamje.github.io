@@ -24,7 +24,7 @@ author_profile: true
 - ["Does the Size of the Signal Space Matter?"](https://hyundamje.github.io/papers/Signal_Space.pdf)  
   (with Daeyoung Jeong)
 
-- ["Socioeconomic Status and Risk-Taking Behaviors: Evidence from Online Gambling"]()  
+- ["Socioeconomic Status and Risk-Taking Anomalies: Evidence from Online Gambling"]()  
   (with Sally Gainsbury, Robert Heirene, Emily Shaw, and Agnieszka Tymula)
 
 - ["Time Preferences under Stress"]()  
