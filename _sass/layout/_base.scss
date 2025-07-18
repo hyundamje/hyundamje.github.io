@@ -1,6 +1,29 @@
 /* ==========================================================================
    BASE ELEMENTS
    ========================================================================== */
+@font-face {
+  font-family: 'Libertine';
+  src: url('/assets/fonts/LinLibertineO.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Libertine';
+  src: url('/assets/fonts/LinLibertineOB.woff2') format('woff2');
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Libertine';
+  src: url('/assets/fonts/LinLibertineMO.woff2') format('woff2');
+  font-weight: normal;
+  font-style: italic;
+}
+
+
+
 html {
   /* sticky footer fix */
   position: relative;
@@ -18,10 +41,11 @@ body {
  // font-family: 'Merriweather', serif;
   // font-family: 'Source Serif 4', serif;
  // font-family: 'Roboto Serif', serif;
-  font-family: 'IBM Plex Serif', serif;
-
-  line-height: 1.5;
-  font-weight: 400; 
+ // font-family: 'IBM Plex Serif', serif;
+  font-family:  'Libertine', serif;
+ 
+   // line-height: 1.5;
+ // font-weight: 400; 
    
   &.overflow--hidden {
     /* when primary navigation is visible, the content in the background won't scroll */
