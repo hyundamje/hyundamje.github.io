@@ -21,11 +21,6 @@ redirect_from:
 <p> Welcome! My name is Hyundam Je (제현담/諸炫潭), where Hyun (현/炫) means "shimmering" and Dam (담/潭) means "lake."
 </p>
 
-<p>
-  Welcome! My name is Hyundam Je (<span style="font-size: 0.9em;">제현담/諸炫潭</span>), where Hyun (<span style="font-size: 0.9em;">현/炫</span>) means "shimmering" and Dam (<span style="font-size: 0.9em;">담/潭</span>) means "lake."
-</p>
-
-
   <p>I am a Research Fellow at the School of Economics at the University of Sydney working with <a href="https://www.tymula.com/agnieszka/" target="_blank">Agnieszka Tymula</a>. I'm a behavioral economist studying how people make decisions under uncertainty, limited information, and cognitive constraints, mostly using experimental methods. I received my PhD in Economics from Texas A&M University in 2023, under the supervision of <a href="http://people.tamu.edu/~alexbrown/" target="_blank">Alex Brown</a>.</p>
 
   <p>As a guitar player, I’ve been deeply influenced by John Mayer, John Frusciante, and Jimi Hendrix.</p>
