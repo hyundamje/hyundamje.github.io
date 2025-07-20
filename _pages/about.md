@@ -18,7 +18,7 @@ redirect_from:
 <div style="max-width: 700px; margin: 30px auto;">
   
 
-<p>Welcome! My name is Hyundam Je (<span style="font-size:80%">제현담/諸炫潭</span>), where Hyun (<span style="font-size:80%">현/炫</span>) means "shimmering" and Dam (<span style="font-size:80%">담/潭</span>) means "lake."</p>
+<p>Welcome! My name is Hyundam Je (<span style="font-size:85%">제현담/諸炫潭</span>), where Hyun (<span style="font-size:85%">현/炫</span>) means "shimmering" and Dam (<span style="font-size:85%">담/潭</span>) means "lake."</p>
 
   <p>I am a Research Fellow at the School of Economics at the University of Sydney working with <a href="https://www.tymula.com/agnieszka/" target="_blank">Agnieszka Tymula</a>. I'm a behavioral economist studying how people make decisions under uncertainty, limited information, and cognitive constraints, mostly using experimental methods. I received my PhD in Economics from Texas A&M University in 2023, under the supervision of <a href="http://people.tamu.edu/~alexbrown/" target="_blank">Alex Brown</a>.</p>
 
