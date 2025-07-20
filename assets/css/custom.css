@@ -8,7 +8,11 @@
   letter-spacing: 0.05em;
 }
 
-.author__name,
+.author__name {
+  font-family: 'Crimson Pro', serif !important;
+  font-size: 1rem !important;
+  font-weight: 500;
+}
 .author__bio,
 .author__urls,
 .author__urls li,
