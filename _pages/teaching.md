@@ -11,9 +11,9 @@ author_profile: true
 - *Games and Economic Behavior* (Undergraduate, Texas A&M University)
 
 ### Teaching Assistant
-- *Principles of Microeconomics* (Undergraduate, Texas A&M University)  
-- *Behavioral Financial Economics* (Master’s, Texas A&M University)  
-- *Experimental Economics* (PhD, Texas A&M University)  
+- Principles of Microeconomics (Undergraduate, Texas A&M University)  
+- Behavioral Financial Economics (Master’s, Texas A&M University)  
+- Experimental Economics (PhD, Texas A&M University)  
 - *Games and Economic Behavior* (Undergraduate, Texas A&M University)  
 - *Antitrust Economics* (Undergraduate, Texas A&M University)  
 - *Microeconomic Theory I* (PhD, Texas A&M University)  
