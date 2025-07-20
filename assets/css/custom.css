@@ -13,5 +13,6 @@
 .author__urls,
 .author__urls li,
 .author__urls a {
- font-family: 'Source Sans 3', sans-serif !important;  
+ font-family: 'Crimson Pro', serif !important;  
+   font-size: 1.05rem;
 }
