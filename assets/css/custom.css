@@ -3,6 +3,7 @@
 .masthead__menu,
 .masthead__menu a {
   font-family:  'Satoshi', sans-serif !important;  
+  font-weight: 500;
 }
 
 .author__name,
