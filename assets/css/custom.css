@@ -10,7 +10,7 @@
 
 .author__name {
   font-family: 'Crimson Pro', serif !important;
-  font-size: 1.1rem !important;
+  font-size: 1.2rem !important;
   font-weight: 500;
 }
 .author__bio,
@@ -18,5 +18,5 @@
 .author__urls li,
 .author__urls a {
  font-family: 'Crimson Pro', serif !important;  
- font-size: 0.8rem !important;
+ font-size: 0.9rem !important;
 }
