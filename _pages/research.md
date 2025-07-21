@@ -15,11 +15,11 @@ author_profile: true
   
   
   ["Ambiguity Vulnerability"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4655454)  
-  (with Mahdi Akbari, Vinayak Alladi, and Agnieszka Tymula) 
+  (with Mahdi Akbari, Vinayak Alladi, and Agnieszka Tymula)   
   **R&R, Journal of Economic Behavior & Organization**
 
-  ["Timing of Informativeness on Motivated Reasoning"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5043225) 
-  (with Sora Youn)
+  ["Timing of Informativeness on Motivated Reasoning"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5043225)  
+  (with Sora Youn) 
   **R&R, Games and Economic Behavior**
   
   ["Does the Size of the Signal Space Matter?"](https://hyundamje.github.io/papers/Signal_Space.pdf)  
