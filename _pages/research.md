@@ -7,7 +7,7 @@ author_profile: true
 
 ---
 
-### working papers
+### Working Papers
 
   ["Preferences for the Resolution of Risk and Ambiguity"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4092231)  
   (with Alexander L. Brown and Huiyi Guo)  
@@ -19,7 +19,7 @@ author_profile: true
   **R&R, Journal of Economic Behavior & Organization**
 
   ["Timing of Informativeness on Motivated Reasoning"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5043225)  
-  (with Sora Youn) 
+  (with Sora Youn)  
   **R&R, Games and Economic Behavior**
   
   ["Does the Size of the Signal Space Matter?"](https://hyundamje.github.io/papers/Signal_Space.pdf)  
