@@ -39,9 +39,9 @@ body {
   padding: $masthead-height 0 0;
   padding-bottom: 9em;
 //   font-family: 'Source Serif 4', serif;
-  font-family:  'Libertine', serif;
+ // font-family:  'Libertine', serif;
  // font-family: 'Crimson Pro', serif;
-   //  font-family: 'EB Garamond', serif;
+  font-family: 'EB Garamond', serif;
  //   line-height: 1.2;
   //  font-weight: 400; 
    
@@ -51,7 +51,7 @@ body {
   }
 }
 
-$header-font-family: 'Libertine', serif;
+$header-font-family: 'EB Garamond', serif;
 
 h1, h2, h3, h4, h5, h6 {
   margin: 2em 0 0.5em;
