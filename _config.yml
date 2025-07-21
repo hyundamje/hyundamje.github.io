@@ -22,7 +22,7 @@ plugins:
 
 # minimal_mistakes_skin: "default"
 
-title                    : ""
+title                    : "Hyundam Je / Economist"
 title_separator          : "—"
 name                     : &hyundamje "Hyundam Je"
 description              : &description "behavioral economist"
@@ -36,7 +36,7 @@ repository               : "hyundamje/hyundamje.github.io"
 author:
   # Biographic information
   avatar           : "olaf.png" 
-  name             : "Hyundam Je"
+  name             : ""
   pronouns         : # example: "she/her"  
   bio              : "behavioral economist thinking about how people think"
   location         : "Sydney"
