@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <div style="margin-left: 1.2em; margin-top: 2em; margin-bottom: 2em;">
-  Here is a link to my <a href="https://hyundamje.github.io/papers/cv_je.pdf">CV</a>
+ <a href="https://hyundamje.github.io/papers/cv_je.pdf">Curriculum Vitae</a>
 </div>
 
 
