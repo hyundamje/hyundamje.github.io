@@ -2,8 +2,10 @@
 .site-title a,
 .masthead__menu,
 .masthead__menu a {
-  font-family:  'Inter', sans-serif !important; 
-  font-weight: 400;
+
+  font-family: 'Crimson Pro', serif !important;
+   font-size: 1.2rem !important;
+  font-weight: 500;
 }
 
 .author__name {
