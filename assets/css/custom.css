@@ -3,13 +3,13 @@
 .masthead__menu,
 .masthead__menu a {
 
-  font-family: 'Crimson Pro', serif !important;
+  font-family: 'EB Garamond', serif !important;
    font-size: 1.2rem !important;
   font-weight: 400;
 }
 
 .author__name {
-  font-family: 'Crimson Pro', serif !important;
+  font-family: 'EB Garamond', serif !important;
   font-size: 1.5rem !important;
   font-weight: 400;
 }
@@ -17,6 +17,6 @@
 .author__urls,
 .author__urls li,
 .author__urls a {
- font-family: 'Crimson Pro', serif !important;  
+ font-family: 'EB Garamond', serif !important;  
  font-size: 0.9rem !important;
 }
