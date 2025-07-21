@@ -9,7 +9,7 @@
 }
 
 .author__name {
-  font-family: 'EB Garamond', serif !important;
+  font-family: 'Libertine', serif !important;
   font-size: 1.5rem !important;
   font-weight: 400;
 }
@@ -17,6 +17,6 @@
 .author__urls,
 .author__urls li,
 .author__urls a {
- font-family: 'EB Garamond', serif !important;  
+ font-family: 'Libertine', serif !important;  
  font-size: 0.9rem !important;
 }
