@@ -3,7 +3,7 @@
 .masthead__menu,
 .masthead__menu a {
 
-  font-family: 'EB Garamond', serif !important;
+  font-family:  'Inter', sans-serif !important; 
    font-size: 1.2rem !important;
   font-weight: 400;
 }
