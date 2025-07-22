@@ -4,7 +4,7 @@
 .masthead__menu a {
 
 font-family:  'Source Sans 3', sans-serif !important; 
-   font-size: 1rem !important;
+   font-size: 1.2rem !important;
   font-weight: 400;
 }
 
@@ -17,5 +17,5 @@ font-family:  'Source Sans 3', sans-serif !important;
 .author__urls,
 .author__urls li,
 .author__urls a {
- font-family: 'Inter', sans-serif !important;
+ font-family: 'Source Sans 3', sans-serif !important;
 }
