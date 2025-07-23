@@ -21,7 +21,7 @@ author_profile: true
 <span style="color:#2a7ae2">2021</span> Economic Science Association Global Online Around-the-Clock Conference, Online; Economic Science Association North American Conference, Tucson; European Winter Meetings of the Econometric Society, Online
 
 <span style="color:#2a7ae2">2021</span> Economic Science Association Global Online Around-the-Clock Conference, Online; Economic Science Association North American Conference, Tucson*; European Winter Meetings of the Econometric Society, Online. <br>
-<small>* my first in-person conference!</small>
+<small>*my first in-person conference!</small>
 
 ### Workshop Participations
 
