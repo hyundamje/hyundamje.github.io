@@ -18,8 +18,10 @@ author_profile: true
 
 <span style="color:#2a7ae2">2022</span> World Economic Science Association Conference, Boston; Society for Experimental Finance Conference, Bonn; Foundations of Utility and Risk Conference, Ghent; The Korea-America Economic Association Job Market Conference, Online; Texas Economic Theory Camp, Houston; Economic Science Association North American Conference, Santa Barbara; Economic Science Association Job Market Seminar, Online 
 
-<span style="color:#2a7ae2">2021</span> Economic Science Association Global Online Around-the-Clock Conference, Online; Economic Science Association North American Conference, Tucson*; European Winter Meetings of the Econometric Society, Online. <br>
-<small>*my first in-person conference!</small>
+<span style="color:#2a7ae2">2021</span> Economic Science Association Global Online Around-the-Clock Conference, Online; Economic Science Association North American Conference, Tucson*; European Winter Meetings of the Econometric Society, Online. 
+<br>
+<span style="font-size: 0.9rem; color: #555; font-style: italic;">*my first in-person conference!</span>
+
 
 ### Workshop Participations
 
