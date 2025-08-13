@@ -25,10 +25,10 @@ author_profile: true
   ["Does the Size of the Signal Space Matter?"](https://hyundamje.github.io/papers/Signal_Space.pdf)  
   (with Daeyoung Jeong)
 
-  ["Socioeconomic Status and Risk-Taking Anomalies: Evidence from Online Gambling"]()  
+  ["Socioeconomic Status and Risk-Taking Anomalies: Evidence from Online Gambling"](https://hyundamje.github.io/papers/SES_on_gambling.pdf)   
   (with Sally Gainsbury, Robert Heirene, Emily Shaw, and Agnieszka Tymula)
 
-  ["Time Preferences under Stress"]()  
+  ["Time Preferences under Stress"](https://hyundamje.github.io/papers/Stress.pdf)     
   (with Stephen Cheung, Arquette Milin-Byrne, and Agnieszka Tymula)   
     
   <span style="color: #2a7ae2;">"Preferences over Ambiguity in Vaccination Decision"</span>       
