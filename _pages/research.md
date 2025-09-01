@@ -13,17 +13,15 @@ author_profile: true
   (with Alexander L. Brown and Huiyi Guo)  
   **R&R, Journal of Economic Theory**
   
-  
-  ["Ambiguity Vulnerability"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4655454)  
-  (with Mahdi Akbari, Vinayak Alladi, and Agnieszka Tymula)   
-  **R&R, Journal of Economic Behavior & Organization**
-
   ["Timing of Informativeness on Motivated Reasoning"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5043225)  
   (with Sora Youn)  
   **R&R, Games and Economic Behavior**
   
   ["Does the Size of the Signal Space Matter?"](https://hyundamje.github.io/papers/Signal_Space.pdf)  
   (with Daeyoung Jeong)
+    
+  ["Ambiguity Vulnerability"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4655454)  
+  (with Mahdi Akbari, Vinayak Alladi, Agnieszka Tymula, and Jingni Yang)   
 
   ["Socioeconomic Status and Risk-Taking Anomalies: Evidence from Online Gambling"](https://hyundamje.github.io/papers/SES_on_gambling.pdf)   
   (with Sally Gainsbury, Robert Heirene, Emily Shaw, and Agnieszka Tymula)
