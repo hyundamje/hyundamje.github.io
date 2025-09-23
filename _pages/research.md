@@ -13,7 +13,7 @@ author_profile: true
   (with Alexander L. Brown and Huiyi Guo)  
   **R&R, Journal of Economic Theory**
   
-  ["Timing of Informativeness on Motivated Reasoning"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5043225)  
+  ["Timing of Informativeness: Experimental Evidence on Motivated Reasoning"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5043225)  
   (with Sora Youn)  
   **R&R, Games and Economic Behavior**
   
