@@ -9,7 +9,8 @@ body {
 }
 
 /* 제목만 EB Garamond */
-h1, h2, h3, h4, h5, h6 {
+h1, h2, h3, h4, h5, h6,
+.page__title { /* ← 추가 */
   font-family: 'EB Garamond', serif !important;
 }
 
