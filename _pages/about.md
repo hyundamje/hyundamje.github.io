@@ -15,7 +15,7 @@ redirect_from:
 </div>
 
 
-<div style="max-width: 700px; margin: 30px auto;">
+<div style="max-width: 700px; margin: 30px auto; line-height: 1.5;">
   
 
 <p>Welcome! My name is Hyundam Je (<span style="font-size:85%">제현담/諸炫潭</span>), where Hyun (<span style="font-size:85%">현/炫</span>) means "shimmering" and Dam (<span style="font-size:85%">담/潭</span>) means "lake."</p>
