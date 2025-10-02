@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ---
-
+<!-- 
 ### Seminar and Conference Presentations
 
 <span style="color:#2a7ae2">2025*</span> Binghamton University; Asia-Pacific Economic Science Association Conference, Osaka; University of Melbourne; Heidelberg University; Kyung Hee University; University of Seoul; Yonsei University; East Asia Experimental and Behavioral Economics Workshop, Taipei; Sungkyunkwan University; KAIST <br>
@@ -20,7 +20,7 @@ author_profile: true
 
 <span style="color:#2a7ae2">2021</span> Economic Science Association Global Online Around-the-Clock Conference, Online; Economic Science Association North American Conference, Tucson; European Winter Meetings of the Econometric Society, Online. 
 <br>
-
+-->
 
 ### Seminar and Conference Presentations
 
@@ -75,6 +75,7 @@ author_profile: true
   <li>European Winter Meetings of the Econometric Society, Online</li>
 </ul>
 
+<br>
 
 ### Workshop Participations
 
