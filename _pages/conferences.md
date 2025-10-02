@@ -35,7 +35,6 @@ author_profile: true
 - East Asia Experimental and Behavioral Economics Workshop, Taipei  
 - Sungkyunkwan University  
 - KAIST  
-<span style="font-size: 0.85rem;">*including scheduled presentations</span>  
 
 <span style="color:#2a7ae2">2024</span>  
 - Australian Gender Economics Workshop (Discussant), Sydney  
