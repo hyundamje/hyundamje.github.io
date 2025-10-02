@@ -24,7 +24,7 @@ author_profile: true
 
 ### Seminar and Conference Presentations
 
-<span style="color:#2a7ae2">2025*</span>  
+<span style="color:#2a7ae2">2025</span> <span style="font-size: 0.85rem;">(including scheduled presentations)</span>
 - Binghamton University  
 - Asia-Pacific Economic Science Association Conference, Osaka  
 - University of Melbourne  
