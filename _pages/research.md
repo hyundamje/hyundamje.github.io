@@ -6,7 +6,8 @@ author_profile: true
 ---
 
 ---
-
+<div style="max-width: 700px; margin: 30px auto; line-height: 1.2;">
+  
 ### Working Papers
 
   ["Preferences for the Resolution of Risk and Ambiguity"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4092231)  
@@ -39,5 +40,5 @@ author_profile: true
   <span style="color: #2a7ae2;">"First Impressions Last: Order of Information in Politicized Motivated Reasoning"</span>      
   (with Daeyoung Jeong and Sora Youn)   
   _Data Acquisition Completed_
-
+</div>
   
