@@ -1,27 +1,27 @@
 /* ==========================================================================
    BASE ELEMENTS
    ========================================================================== */
+
 @font-face {
-   font-family: 'Source Sans 3', sans-serif !important;
-  src: url('/assets/fonts/LinLibertineO.woff2') format('woff2');
-  font-weight: normal;
+  font-family: 'Source Sans Pro';
+  src: url('/assets/fonts/SourceSansPro-Regular.woff2') format('woff2');
+  font-weight: 400;
   font-style: normal;
 }
 
 @font-face {
-   font-family: 'Source Sans 3', sans-serif !important;
-  src: url('/assets/fonts/LinLibertineOB.woff2') format('woff2');
-  font-weight: bold;
+  font-family: 'Source Sans Pro';
+  src: url('/assets/fonts/SourceSansPro-Bold.woff2') format('woff2');
+  font-weight: 700;
   font-style: normal;
 }
 
 @font-face {
-   font-family: 'Source Sans 3', sans-serif !important;
-  src: url('/assets/fonts/LinLibertineOI.woff2') format('woff2');
-  font-weight: normal;
+  font-family: 'Source Sans Pro';
+  src: url('/assets/fonts/SourceSansPro-Italic.woff2') format('woff2');
+  font-weight: 400;
   font-style: italic;
 }
-
 
 
 html {
