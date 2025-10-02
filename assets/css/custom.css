@@ -8,16 +8,12 @@ body {
   font-family: 'Source Sans 3', sans-serif !important;
 }
 
-strong, b {
-  font-weight: 700; /* 자동으로 Bold Source Sans 3 적용 */
+/* 제목만 EB Garamond */
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'EB Garamond', serif !important;
 }
 
-em, i {
-  font-style: italic; /* 자동으로 Italic Source Sans 3 적용 */
-}
-
-
-h1, h2, h3, h4, h5, h6,
+/* 사이트 타이틀, 메뉴는 그대로 Source Sans 3 */
 .site-title, .masthead__menu {
   font-family: 'Source Sans 3', sans-serif !important;
 }
