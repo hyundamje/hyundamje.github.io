@@ -11,11 +11,11 @@ author_profile: true
 
   ["Preferences for the Resolution of Risk and Ambiguity"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4092231)  
   (with Alexander L. Brown and Huiyi Guo)  
-  **R&R, Journal of Economic Theory**
+  ***R&R, Journal of Economic Theory***
   
   ["Timing of Informativeness: Experimental Evidence on Motivated Reasoning"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5043225)  
   (with Sora Youn)  
-  **R&R, Games and Economic Behavior**
+  ***R&R, Games and Economic Behavior***
   
   ["Does the Size of the Signal Space Matter?"](https://hyundamje.github.io/papers/Signal_Space.pdf)  
   (with Daeyoung Jeong)
