@@ -62,7 +62,7 @@ author_profile: true
 
 <span style="display:block; height:0.25em;"></span>
 
-<span style="color:#2a7ae2">2022</span>  
+<span style="color:#2a7ae2">2022</span>
 - World Economic Science Association Conference, Boston  
 - Society for Experimental Finance Conference, Bonn  
 - Foundations of Utility and Risk Conference, Ghent  
@@ -73,7 +73,7 @@ author_profile: true
 
 <span style="display:block; height:0.25em;"></span>
 
-<span style="color:#2a7ae2">2021</span>  
+<span style="color:#2a7ae2">2021</span>
 - Economic Science Association Global Online Around-the-Clock Conference, Online  
 - Economic Science Association North American Conference, Tucson  
 - European Winter Meetings of the Econometric Society, Online  
