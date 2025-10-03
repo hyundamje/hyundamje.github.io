@@ -28,7 +28,7 @@ author_profile: true
   <span style="color:#2a7ae2;">2025</span> <span style="font-size:0.75rem;">(including scheduled presentations)</span>
 </div>
 
-<ul style="margin-top:0.25rem; padding-left:2rem;">
+<ul style="margin-top:0.25rem">
   <li>Binghamton University</li>
   <li>Asia-Pacific Economic Science Association Conference, Osaka</li>
   <li>University of Melbourne</li>
