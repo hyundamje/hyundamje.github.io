@@ -40,8 +40,6 @@ author_profile: true
   <li>KAIST</li>
 </ul>
 
-<span style="display:block; height:0.25em;"></span>
-
 <div style="color:#2a7ae2; margin:0.5rem;">2024</div>
 <ul style="margin-top:0.25rem;">
   <li>Australian Gender Economics Workshop (Discussant), Sydney</li>
@@ -55,8 +53,6 @@ author_profile: true
   <li>Annual Australia New Zealand Workshop in Experimental Economics, Canberra</li>
   <li>Economic Science Association North American Conference, Columbus</li>
 </ul>
-
-<span style="display:block; height:0.25em;"></span>
 
 <div style="color:#2a7ae2; margin:0.5rem;">2023</div> 
 <ul style="margin-top:0.25rem;">
