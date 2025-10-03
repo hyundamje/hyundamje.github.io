@@ -26,7 +26,7 @@ author_profile: true
 
 <span style="display:block; height:0.25em;"></span>
 
-<span style="color:#2a7ae2">2025</span> <span style="font-size: 0.85rem;">(including scheduled presentations)</span>
+<span style="color:#2a7ae2">2025</span> <span style="font-size: 0.7rem;">(including scheduled presentations)</span>
 - Binghamton University  
 - Asia-Pacific Economic Science Association Conference, Osaka  
 - University of Melbourne  
