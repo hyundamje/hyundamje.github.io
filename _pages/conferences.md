@@ -62,8 +62,6 @@ author_profile: true
   <li>The Korean Econometric Society Monthly Seminar, Online</li>
 </ul>
 
-<span style="display:block; height:0.25em;"></span>
-
 <div style="color:#2a7ae2; margin:0.5rem;">2022</div>
 <ul style="margin-top:0.25rem;">
   <li>World Economic Science Association Conference, Boston</li>
@@ -74,8 +72,6 @@ author_profile: true
   <li>Economic Science Association North American Conference, Santa Barbara</li>
   <li>Economic Science Association Job Market Seminar, Online</li>
 </ul>
-
-<span style="display:block; height:0.25em;"></span>
 
 <div style="color:#2a7ae2; margin:0.5rem;">2021</div>
 <ul style="margin-top:0.25rem;">
