@@ -41,7 +41,7 @@ author_profile: true
   <li>KAIST</li>
 </ul>
 
-<div style="color:#2a7ae2; margin:0rem;">2024</div>
+<div style="color:#2a7ae2; margin-top:1rem; margin-bottom:0.25rem;">2024</div>
 <ul style="margin-top:0.25rem;">
   <li>Australian Gender Economics Workshop (Discussant), Sydney</li>
   <li>Korea Experimental and Behavioral Economics Association Winter Workshop, Seoul</li>
@@ -55,7 +55,8 @@ author_profile: true
   <li>Economic Science Association North American Conference, Columbus</li>
 </ul>
 
-<div style="color:#2a7ae2; margin:0rem;">2023</div> 
+<div style="color:#2a7ae2; margin-top:1rem; margin-bottom:0.25rem;">2023</div>
+
 <ul style="margin-top:0.25rem;">
   <li>National Taipei University</li>
   <li>Asia-Pacific Economic Science Association Conference, Seoul</li>
