@@ -41,7 +41,7 @@ author_profile: true
   <li>KAIST</li>
 </ul>
 
-<div style="color:#2a7ae2; margin:1rem 0 0.25rem 1rem;">2024</div>
+<div style="color:#2a7ae2; margin:1rem 0 0.25rem 0rem;">2024</div>
 <ul style="margin-top:0.25rem;">
   <li>Australian Gender Economics Workshop (Discussant), Sydney</li>
   <li>Korea Experimental and Behavioral Economics Association Winter Workshop, Seoul</li>
@@ -63,7 +63,7 @@ author_profile: true
   <li>The Korean Econometric Society Monthly Seminar, Online</li>
 </ul>
 
-<div style="color:#2a7ae2; margin:0.5rem;">2022</div>
+<div style="color:#2a7ae2; margin:1rem 0 0.25rem 1rem;">2022</div>
 <ul style="margin-top:0.25rem;">
   <li>World Economic Science Association Conference, Boston</li>
   <li>Society for Experimental Finance Conference, Bonn</li>
@@ -74,7 +74,7 @@ author_profile: true
   <li>Economic Science Association Job Market Seminar, Online</li>
 </ul>
 
-<div style="color:#2a7ae2; margin:0.5rem;">2021</div>
+<div style="color:#2a7ae2; margin:1rem 0 0.25rem 1rem;">2021</div>
 <ul style="margin-top:0.25rem;">
   <li>Economic Science Association Global Online Around-the-Clock Conference, Online</li>
   <li>Economic Science Association North American Conference, Tucson</li>
