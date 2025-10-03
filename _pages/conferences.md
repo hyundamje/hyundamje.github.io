@@ -24,6 +24,8 @@ author_profile: true
 
 ### Seminar and Conference Presentations
 
+<span style="display:block; height:0.5em;"></span>
+
 <span style="color:#2a7ae2">2025</span> <span style="font-size: 0.85rem;">(including scheduled presentations)</span>
 - Binghamton University  
 - Asia-Pacific Economic Science Association Conference, Osaka  
@@ -35,6 +37,8 @@ author_profile: true
 - East Asia Experimental and Behavioral Economics Workshop, Taipei  
 - Sungkyunkwan University  
 - KAIST  
+
+<span style="display:block; height:0.5em;"></span>
 
 <span style="color:#2a7ae2">2024</span>  
 - Australian Gender Economics Workshop (Discussant), Sydney  
@@ -67,16 +71,14 @@ author_profile: true
 - Economic Science Association North American Conference, Santa Barbara  
 - Economic Science Association Job Market Seminar, Online  
 
-<br>
+<span style="display:block; height:0.5em;"></span>
 
 <span style="color:#2a7ae2">2021</span>  
 - Economic Science Association Global Online Around-the-Clock Conference, Online  
 - Economic Science Association North American Conference, Tucson  
 - European Winter Meetings of the Econometric Society, Online  
 
-<br>
-
-
+<span style="display:block; height:0.5em;"></span>
 
 
 
