@@ -48,7 +48,7 @@ author_profile: true
 - Annual Australia New Zealand Workshop in Experimental Economics, Canberra  
 - Economic Science Association North American Conference, Columbus  
 
-<span style="display:block; height:1em;"></span>
+<span style="display:block; height:0.5em;"></span>
 
 <span style="color:#2a7ae2">2023</span>  
 - National Taipei University  
@@ -56,8 +56,7 @@ author_profile: true
 - Annual Australia New Zealand Workshop in Experimental Economics, Melbourne  
 - The Korean Econometric Society Monthly Seminar, Online  
 
-<div style="line-height:1.5;"></div>
-
+<span style="display:block; height:0.5em;"></span>
 
 <span style="color:#2a7ae2">2022</span>  
 - World Economic Science Association Conference, Boston  
