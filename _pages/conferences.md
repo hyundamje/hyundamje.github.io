@@ -24,53 +24,60 @@ author_profile: true
 
 ### Seminar and Conference Presentations
 
-<span style="display:block; height:0.25em;"></span>
-
-<div style="color:#2a7ae2; margin:0.5rem;"> 2025 <span style="font-size:0.7rem; color:#444;">(including scheduled presentations)</span>
+<div style="color:#2a7ae2; margin:0.5rem;">
+  2025 <span style="font-size:0.7rem; color:#444;">(including scheduled presentations)</span>
 </div>
-- Binghamton University  
-- Asia-Pacific Economic Science Association Conference, Osaka  
-- University of Melbourne  
-- Heidelberg University  
-- Kyung Hee University  
-- University of Seoul  
-- Yonsei University  
-- East Asia Experimental and Behavioral Economics Workshop, Taipei  
-- Sungkyunkwan University  
-- KAIST  
+<ul style="margin-top:0.25rem;">
+  <li>Binghamton University</li>
+  <li>Asia-Pacific Economic Science Association Conference, Osaka</li>
+  <li>University of Melbourne</li>
+  <li>Heidelberg University</li>
+  <li>Kyung Hee University</li>
+  <li>University of Seoul</li>
+  <li>Yonsei University</li>
+  <li>East Asia Experimental and Behavioral Economics Workshop, Taipei</li>
+  <li>Sungkyunkwan University</li>
+  <li>KAIST</li>
+</ul>
 
 <span style="display:block; height:0.25em;"></span>
 
 <div style="color:#2a7ae2; margin:0.5rem;">2024</div>
-- Australian Gender Economics Workshop (Discussant), Sydney  
-- Korea Experimental and Behavioral Economics Association Winter Workshop, Seoul  
-- NUS Applied Economics Student Workshop, Online  
-- Sydney Experimental Brownbag Seminar, Sydney  
-- Asia-Pacific Economic Science Association Conference, Singapore  
-- Caltech Behavioral/Experimental Workshop, Pasadena  
-- Pre-FUR Sydney Neuroeconomics of Disadvantage Workshop, Sydney  
-- Foundations of Utility and Risk Conference, Brisbane  
-- Annual Australia New Zealand Workshop in Experimental Economics, Canberra  
-- Economic Science Association North American Conference, Columbus  
+<ul style="margin-top:0.25rem;">
+  <li>Australian Gender Economics Workshop (Discussant), Sydney</li>
+  <li>Korea Experimental and Behavioral Economics Association Winter Workshop, Seoul</li>
+  <li>NUS Applied Economics Student Workshop, Online</li>
+  <li>Sydney Experimental Brownbag Seminar, Sydney</li>
+  <li>Asia-Pacific Economic Science Association Conference, Singapore</li>
+  <li>Caltech Behavioral/Experimental Workshop, Pasadena</li>
+  <li>Pre-FUR Sydney Neuroeconomics of Disadvantage Workshop, Sydney</li>
+  <li>Foundations of Utility and Risk Conference, Brisbane</li>
+  <li>Annual Australia New Zealand Workshop in Experimental Economics, Canberra</li>
+  <li>Economic Science Association North American Conference, Columbus</li>
+</ul>
 
 <span style="display:block; height:0.25em;"></span>
 
 <div style="color:#2a7ae2; margin:0.5rem;">2023</div> 
-- National Taipei University  
-- Asia-Pacific Economic Science Association Conference, Seoul  
-- Annual Australia New Zealand Workshop in Experimental Economics, Melbourne  
-- The Korean Econometric Society Monthly Seminar, Online  
+<ul style="margin-top:0.25rem;">
+  <li>National Taipei University</li>
+  <li>Asia-Pacific Economic Science Association Conference, Seoul</li>
+  <li>Annual Australia New Zealand Workshop in Experimental Economics, Melbourne</li>
+  <li>The Korean Econometric Society Monthly Seminar, Online</li>
+</ul>
 
 <span style="display:block; height:0.25em;"></span>
 
 <div style="color:#2a7ae2; margin:0.5rem;">2022</div>
-- World Economic Science Association Conference, Boston  
-- Society for Experimental Finance Conference, Bonn  
-- Foundations of Utility and Risk Conference, Ghent  
-- The Korea-America Economic Association Job Market Conference, Online  
-- Texas Economic Theory Camp, Houston  
-- Economic Science Association North American Conference, Santa Barbara  
-- Economic Science Association Job Market Seminar, Online  
+<ul style="margin-top:0.25rem;">
+  <li>World Economic Science Association Conference, Boston</li>
+  <li>Society for Experimental Finance Conference, Bonn</li>
+  <li>Foundations of Utility and Risk Conference, Ghent</li>
+  <li>The Korea-America Economic Association Job Market Conference, Online</li>
+  <li>Texas Economic Theory Camp, Houston</li>
+  <li>Economic Science Association North American Conference, Santa Barbara</li>
+  <li>Economic Science Association Job Market Seminar, Online</li>
+</ul>
 
 <span style="display:block; height:0.25em;"></span>
 
@@ -80,7 +87,6 @@ author_profile: true
   <li>Economic Science Association North American Conference, Tucson</li>
   <li>European Winter Meetings of the Econometric Society, Online</li>
 </ul>
-
 
 
 ### Workshop Participations
