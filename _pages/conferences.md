@@ -24,7 +24,7 @@ author_profile: true
 
 ### Seminar and Conference Presentations
 
-<div style="margin:1rem 0 0.25rem 1.5rem;">
+<div style="margin:1rem 0 0.25rem 0rem;">
   <span style="color:#2a7ae2;">2025</span> <span style="font-size:0.75rem;">(including scheduled presentations)</span>
 </div>
 
@@ -55,7 +55,7 @@ author_profile: true
   <li>Economic Science Association North American Conference, Columbus</li>
 </ul>
 
-<div style="color:#2a7ae2; margin:1rem 0 0.25rem 1rem;">2023</div>
+<div style="color:#2a7ae2; margin:1rem 0 0.25rem 0rem;">2023</div>
 <ul style="margin-top:0.25rem;">
   <li>National Taipei University</li>
   <li>Asia-Pacific Economic Science Association Conference, Seoul</li>
@@ -63,7 +63,7 @@ author_profile: true
   <li>The Korean Econometric Society Monthly Seminar, Online</li>
 </ul>
 
-<div style="color:#2a7ae2; margin:1rem 0 0.25rem 2.2rem;">2022</div>
+<div style="color:#2a7ae2; margin:1rem 0 0.25rem 2.3rem;">2022</div>
 <ul style="margin-top:0.25rem;">
   <li>World Economic Science Association Conference, Boston</li>
   <li>Society for Experimental Finance Conference, Bonn</li>
@@ -74,7 +74,7 @@ author_profile: true
   <li>Economic Science Association Job Market Seminar, Online</li>
 </ul>
 
-<div style="color:#2a7ae2; margin:1rem 0 0.25rem 2.2rem;">2021</div>
+<div style="color:#2a7ae2; margin:1rem 0 0.25rem 2.3rem;">2021</div>
 <ul style="margin-top:0.25rem;">
   <li>Economic Science Association Global Online Around-the-Clock Conference, Online</li>
   <li>Economic Science Association North American Conference, Tucson</li>
