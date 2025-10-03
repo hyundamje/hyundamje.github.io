@@ -77,6 +77,15 @@ author_profile: true
 
 <br>
 
+<span class="conf-year" style="color:#2a7ae2">2021</span>
+<ul class="conf-list">
+  <li>Economic Science Association Global Online Around-the-Clock Conference, Online</li>
+  <li>Economic Science Association North American Conference, Tucson</li>
+  <li>European Winter Meetings of the Econometric Society, Online</li>
+</ul>
+
+
+
 ### Workshop Participations
 
 - The 3rd Caltech Summer School in Theory-Based Experiments, Pasadena, 2024
