@@ -48,8 +48,7 @@ author_profile: true
 - Annual Australia New Zealand Workshop in Experimental Economics, Canberra  
 - Economic Science Association North American Conference, Columbus  
 
-<div style="line-height:0.5;"></div>
-
+<span style="display:block; height:1em;"></span>
 
 <span style="color:#2a7ae2">2023</span>  
 - National Taipei University  
