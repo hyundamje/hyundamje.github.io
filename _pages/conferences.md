@@ -25,7 +25,7 @@ author_profile: true
 ### Seminar and Conference Presentations
 
 <div style="color:#2a7ae2; margin:0.5rem;">
-  2025 <span style="font-size:0.7rem; color:#444;">(including scheduled presentations)</span>
+  2025 <span style="font-size:0.8rem; color:#444;">(including scheduled presentations)</span>
 </div>
 <ul style="margin-top:0.25rem;">
   <li>Binghamton University</li>
