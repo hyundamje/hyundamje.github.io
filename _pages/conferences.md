@@ -26,7 +26,8 @@ author_profile: true
 
 <span style="display:block; height:0.25em;"></span>
 
-<span style="color:#2a7ae2">2025</span> <span style="font-size: 0.7rem;">(including scheduled presentations)</span>
+<div style="color:#2a7ae2; margin:0.5rem;"> 2025 <span style="font-size:0.7rem; color:#444;">(including scheduled presentations)</span>
+</div>
 - Binghamton University  
 - Asia-Pacific Economic Science Association Conference, Osaka  
 - University of Melbourne  
@@ -40,7 +41,7 @@ author_profile: true
 
 <span style="display:block; height:0.25em;"></span>
 
-<span style="color:#2a7ae2">2024</span>  
+<div style="color:#2a7ae2; margin:0.5rem;">2024</div>
 - Australian Gender Economics Workshop (Discussant), Sydney  
 - Korea Experimental and Behavioral Economics Association Winter Workshop, Seoul  
 - NUS Applied Economics Student Workshop, Online  
@@ -54,7 +55,7 @@ author_profile: true
 
 <span style="display:block; height:0.25em;"></span>
 
-<span style="color:#2a7ae2">2023</span>  
+<div style="color:#2a7ae2; margin:0.5rem;">2023</div> 
 - National Taipei University  
 - Asia-Pacific Economic Science Association Conference, Seoul  
 - Annual Australia New Zealand Workshop in Experimental Economics, Melbourne  
@@ -62,7 +63,7 @@ author_profile: true
 
 <span style="display:block; height:0.25em;"></span>
 
-<span style="color:#2a7ae2">2022</span>
+<div style="color:#2a7ae2; margin:0.5rem;">2022</div>
 - World Economic Science Association Conference, Boston  
 - Society for Experimental Finance Conference, Bonn  
 - Foundations of Utility and Risk Conference, Ghent  
@@ -72,14 +73,6 @@ author_profile: true
 - Economic Science Association Job Market Seminar, Online  
 
 <span style="display:block; height:0.25em;"></span>
-
-<span style="color:#2a7ae2">2021</span>
-- Economic Science Association Global Online Around-the-Clock Conference, Online  
-- Economic Science Association North American Conference, Tucson  
-- European Winter Meetings of the Econometric Society, Online
-  
-<span style="display:block; height:0.25em;"></span>
-
 
 <div style="color:#2a7ae2; margin:0.5rem;">2021</div>
 <ul style="margin-top:0.25rem;">
