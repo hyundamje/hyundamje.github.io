@@ -8,10 +8,24 @@ author_profile: true
 ---
 
 ### Working Papers
+<ul style="margin-top:0.25rem;">
+  <li>
+    <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4092231">
+      Preferences for the Resolution of Risk and Ambiguity
+    </a>
+    (with Alexander L. Brown and Huiyi Guo)
+    <strong>R&amp;R, Journal of Economic Theory</strong>
+  
+   <li>
+    <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5043225">
+      Timing of Informativeness: Experimental Evidence on Motivated Reasoning
+    </a>
+    (with Sora Youn)
+    <strong>R&amp;R, Games and Economic Behavior</strong>
+  </li>
+</ul>
 
-  ["Preferences for the Resolution of Risk and Ambiguity"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4092231)  
-  (with Alexander L. Brown and Huiyi Guo)  
-  **R&R, Journal of Economic Theory**
+
   
   ["Timing of Informativeness: Experimental Evidence on Motivated Reasoning"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5043225)  
   (with Sora Youn)  
