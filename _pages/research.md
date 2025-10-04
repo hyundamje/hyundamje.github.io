@@ -8,8 +8,8 @@ author_profile: true
 ---
 
 ### Working Papers
-<ul style="margin-top:0.25rem;">
-    <li>
+<ul style="margin-top:1.25rem;">
+      <li style="margin-bottom:0.8rem;">
   <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4092231">
     Preferences for the Resolution of Risk and Ambiguity
   </a><br>
@@ -17,7 +17,7 @@ author_profile: true
   <strong>R&amp;R, Journal of Economic Theory</strong>
 </li>
 
-<li>
+  <li style="margin-bottom:0.8rem;">
   <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5043225">
     Timing of Informativeness: Experimental Evidence on Motivated Reasoning
   </a><br>
@@ -26,7 +26,7 @@ author_profile: true
 </li>
 
 
-   <li>
+    <li style="margin-bottom:0.8rem;">
     <a href="https://hyundamje.github.io/papers/Signal_Space.pdf">
       Does the Size of the Signal Space Matter?
     </a><br>
