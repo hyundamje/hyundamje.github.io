@@ -10,20 +10,21 @@ author_profile: true
 ### Working Papers
 <ul style="margin-top:0.25rem;">
     <li>
-    <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4092231">
-      Preferences for the Resolution of Risk and Ambiguity
-    </a>
-    (with Alexander L. Brown and Huiyi Guo)
-    <strong>R&amp;R, Journal of Economic Theory</strong>
-    </li>
-  
-    <li>
-    <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5043225">
-      Timing of Informativeness: Experimental Evidence on Motivated Reasoning
-    </a>
-    (with Sora Youn)
-    <strong>R&amp;R, Games and Economic Behavior</strong>
-  </li>
+  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4092231">
+    Preferences for the Resolution of Risk and Ambiguity
+  </a><br>
+  (with Alexander L. Brown and Huiyi Guo)<br>
+  <strong>R&amp;R, Journal of Economic Theory</strong>
+</li>
+
+<li>
+  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5043225">
+    Timing of Informativeness: Experimental Evidence on Motivated Reasoning
+  </a><br>
+  (with Sora Youn)<br>
+  <strong>R&amp;R, Games and Economic Behavior</strong>
+</li>
+
 
    <li>
     <a href="https://hyundamje.github.io/papers/Signal_Space.pdf">
