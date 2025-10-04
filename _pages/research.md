@@ -9,7 +9,7 @@ author_profile: true
 
 ### Working Papers
 <ul style="margin-top:1.25rem;">
-      <li>
+<li>
   <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4092231">
     Preferences for the Resolution of Risk and Ambiguity
   </a><br>
@@ -23,10 +23,10 @@ author_profile: true
   </a><br>
   (with Sora Youn)<br>
   <strong>R&amp;R, Games and Economic Behavior</strong>
-</li>
+  </li>
 
 
-    <li>
+  <li>
     <a href="https://hyundamje.github.io/papers/Signal_Space.pdf">
       Does the Size of the Signal Space Matter?
     </a><br>
