@@ -59,15 +59,15 @@ author_profile: true
 <div style="color:#2a7ae2; margin:1rem 0 0.25rem 0rem;">2023</div>
 <ul style="margin-top:0.25rem;">
   <li>National Taipei University</li>
-  <li>Asia-Pacific Economic Science Association Conference, (Seoul National University, Seoul)</li>
-  <li>Annual Australia New Zealand Workshop in Experimental Economics (RMIT, Melbourne)</li>
+  <li>Asia-Pacific Economic Science Association Conference (Seoul)</li>
+  <li>Annual Australia New Zealand Workshop in Experimental Economics (Melbourne)</li>
   <li>The Korean Econometric Society Monthly Seminar (Online)</li>
 </ul>
 
 <div style="color:#2a7ae2; margin:1rem 0 0.25rem 0rem;">2022</div>
 <ul style="margin-top:0.25rem;">
-  <li>World Economic Science Association Conference, Boston</li>
-  <li>Society for Experimental Finance Conference, Bonn</li>
+  <li>World Economic Science Association Conference (Boston)</li>
+  <li>Society for Experimental Finance Conference (Bonn)</li>
   <li>Foundations of Utility and Risk Conference, Ghent</li>
   <li>The Korea-America Economic Association Job Market Conference, Online</li>
   <li>Texas Economic Theory Camp, Houston</li>
