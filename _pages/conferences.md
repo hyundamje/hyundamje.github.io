@@ -38,6 +38,7 @@ author_profile: true
   <li>Yonsei University</li>
   <li>East Asia Experimental and Behavioral Economics Workshop, Taipei</li>
   <li>Sungkyunkwan University</li>
+  <li>Sogang-JBEE Behavioral and Experimental Economics Workshop, Seoul</li>
   <li>KAIST</li>
 </ul>
 
