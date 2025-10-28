@@ -26,16 +26,17 @@ author_profile: true
   </li>
 
   <li>
-    <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5673730">
-      &quot;Does the Size of the Signal Space Matter?&quot;
-    </a><br>
-    (with Daeyoung Jeong)
-  </li>
-  <p style="font-size: 0.9em;">
-  <sup>†</sup> This paper previously circulated under the titles
-  <i>Does the Size of the Signal Space Matter?</i> (Je) and
-  <i>Signal Space Puzzle: Bigger is (Not Always) Better</i> (Je and Jeong).
-</p>
+  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5673730">
+    "Does the Size of the Signal Space Matter?"
+  </a><br>
+  (with Daeyoung Jeong)
+  <div style="font-size: 0.85em; color: #555; margin-top: 2px; line-height: 1.3;">
+    This paper previously circulated under the titles
+    "Does the Size of the Signal Space Matter?" (Je) and
+    "Signal Space Puzzle: Bigger is (Not Always) Better" (Je and Jeong).
+  </div>
+</li>
+
 
   <li>
     <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4655454">
