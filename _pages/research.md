@@ -25,9 +25,8 @@ author_profile: true
   <strong>R&amp;R, Games and Economic Behavior</strong>
   </li>
 
-
   <li>
-    <a href="https://hyundamje.github.io/papers/Signal_Space.pdf">
+    <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5673730">
       &quot;Does the Size of the Signal Space Matter?&quot;
     </a><br>
     (with Daeyoung Jeong)
