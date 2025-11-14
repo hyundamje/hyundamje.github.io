@@ -30,7 +30,7 @@ author_profile: true
     "Does the Size of the Signal Space Matter?"
   </a><br>
   (with Daeyoung Jeong)
-  <div style="font-size: 0.85em; color: #555; margin-top: 2px; line-height: 1.3;">
+  <div style="font-size: 0.85em; margin-top: 2px; line-height: 1.3;">
     This paper previously circulated under the title
     "Signal Space Puzzle: Bigger is (Not Always) Better."
   </div>
