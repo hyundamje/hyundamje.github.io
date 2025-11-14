@@ -47,7 +47,7 @@ author_profile: true
   </li>
 
   <li>
-    <a href="https://hyundamje.github.io/papers/SES_on_gambling.pdf">
+    <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5747923">
       &quot;Socioeconomic Status and Risk-Taking Anomalies: Evidence from Online Gambling&quot;
     </a><br>
     (with Sally Gainsbury, Robert Heirene, Emily Shaw, and Agnieszka Tymula)
