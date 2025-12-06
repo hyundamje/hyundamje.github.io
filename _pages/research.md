@@ -29,13 +29,22 @@ author_profile: true
   <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5673730">
     "Does the Size of the Signal Space Matter?"
   </a><br>
-  (with Daeyoung Jeong)
+  (with Daeyoung Jeong) <br>
+  <strong>Under Review</strong>
   <div style="font-size: 0.85em; margin-top: 2px; line-height: 1.3;">
     This paper previously circulated under the title
     "Signal Space Puzzle: Bigger is (Not Always) Better."
   </div>
 </li>
 
+
+  <li>
+    <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5747923">
+      &quot;Socioeconomic Status and Risk-Taking Anomalies: Evidence from Online Gambling&quot;
+    </a><br>
+    (with Sally Gainsbury, Robert Heirene, Emily Shaw, and Agnieszka Tymula)<br>
+    <strong>Under Review</strong>
+  </li>
 
 
 
@@ -44,13 +53,6 @@ author_profile: true
       &quot;Ambiguity Vulnerability&quot;
     </a><br>
     (with Mahdi Akbari, Vinayak Alladi, Agnieszka Tymula, and Jingni Yang)
-  </li>
-
-  <li>
-    <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5747923">
-      &quot;Socioeconomic Status and Risk-Taking Anomalies: Evidence from Online Gambling&quot;
-    </a><br>
-    (with Sally Gainsbury, Robert Heirene, Emily Shaw, and Agnieszka Tymula)
   </li>
 
   <li>
