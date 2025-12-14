@@ -26,7 +26,7 @@ author_profile: true
 
 
 <div style="margin:1rem 0 0.25rem 0rem;">
-  <span style="color:#2a7ae2;">2026</span> <span style="font-size:0.75rem;">(including scheduled presentations)</span>
+  <span style="color:#2a7ae2;">2026</span> <span style="font-size:0.8rem;">(including scheduled presentations)</span>
 </div>
 
 <ul style="margin-top:0.25rem">
