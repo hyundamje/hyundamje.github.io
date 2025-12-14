@@ -79,7 +79,7 @@ author_profile: true
     &quot;First Impressions Last: Order of Information in Politicized Motivated Reasoning&quot;
   </span><br>
   (with Daeyoung Jeong and Sora Youn)<br>
-  <em>Data Acquisition Completed</em>
+  Data Acquisition Completed
 </li>
 </ul>
 
