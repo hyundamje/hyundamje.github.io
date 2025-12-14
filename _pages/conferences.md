@@ -30,9 +30,9 @@ author_profile: true
 </div>
 
 <ul style="margin-top:0.25rem">
-  <li>T
-  <li>B
-  <li>D  
+  <li>T</li>
+  <li>B</li>
+  <li>D</li>  
 </ul>
 
 <div style="margin:1rem 0 0.25rem 0rem;">
