@@ -24,8 +24,19 @@ author_profile: true
 
 ### Seminar and Conference Presentations
 
+
 <div style="margin:1rem 0 0.25rem 0rem;">
-  <span style="color:#2a7ae2;">2025</span> <span style="font-size:0.75rem;">(including scheduled presentations)</span>
+  <span style="color:#2a7ae2;">2026</span> <span style="font-size:0.75rem;">(including scheduled presentations)</span>
+</div>
+
+<ul style="margin-top:0.25rem">
+  <li>T
+  <li>B
+  <li>D  
+</ul>
+
+<div style="margin:1rem 0 0.25rem 0rem;">
+  <span style="color:#2a7ae2;">2025</span> 
 </div>
 
 <ul style="margin-top:0.25rem">
