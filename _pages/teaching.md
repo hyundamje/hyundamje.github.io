@@ -9,6 +9,7 @@ author_profile: true
 
 ### Instructor
 <ul style="margin-top:0.25rem">
+<li> Principles of Economics: Microeconomics (Undergraduate, University of Seoul) </li>    
 <li> Experimental and Behavioral Economics (Undergraduate, University of Seoul) </li>  
 <li> Experimental Economics (Graduate, University of Seoul)  </li>
 <li> Games and Economic Behavior (Undergraduate, Texas A&M University) </li>
