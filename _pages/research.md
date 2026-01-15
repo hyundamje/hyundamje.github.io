@@ -33,7 +33,7 @@ author_profile: true
   <strong>Under Review</strong>
   <div style="font-size: 0.85em; margin-top: 2px; line-height: 1.3;">
      <em> This paper previously circulated under the title
-    "Signal Space Puzzle: Bigger is (Not Always) Better."  </em>
+    "Signal Space Puzzle: Bigger is (Not Always) Better"  </em>
   </div>
 </li>
 
