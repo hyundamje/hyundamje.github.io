@@ -19,7 +19,7 @@ author_profile: true
 
   <li>
   <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5043225">
-    &quot;Timing of Informativeness: Experimental Evidence on Motivated Reasoning&quot;
+    &quot;Timing of Informativeness&quot;
   </a><br>
   (with Sora Youn)<br>
   <strong>R&amp;R, Games and Economic Behavior</strong>
