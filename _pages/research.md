@@ -80,6 +80,15 @@ author_profile: true
   </span><br>
   (with Daeyoung Jeong and Sora Youn)<br>
   Data Acquisition Completed
-</li>
+  </li>
+    
+  <li>
+  <span style="color:#2a7ae2;">
+    &quot;The Cost of Avoiding Belief-Incongruent Information&quot;
+  </span><br>
+  (with Minseo Choi, Jeong Yeol Kim, and Euncheol Shin)<br>
+  Experimental Design in Progress
+  </li>
+    
 </ul>
 
