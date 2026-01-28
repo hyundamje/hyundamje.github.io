@@ -30,7 +30,7 @@ author_profile: true
 </div>
 
 <ul style="margin-top:0.25rem">
-  <li>Winter Meeting of the Korea Academic Society of Industrial Organization (Discussant), Seoul</li>  
+  <li>Korea’s Allied Economic Associations Annual Meeting (Discussant), Seoul</li>  
 </ul>
 
 <div style="margin:1rem 0 0.25rem 0rem;">
