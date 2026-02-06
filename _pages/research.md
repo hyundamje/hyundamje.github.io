@@ -38,6 +38,7 @@ author_profile: true
 </li>
 
 
+
   <li>
     <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5747923">
       &quot;Socioeconomic Status and Risk-Taking Anomalies: Evidence from Online Gambling&quot;
@@ -47,19 +48,20 @@ author_profile: true
   </li>
 
 
+  <li>
+    <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6171586">
+      &quot;Time Preferences under Stress&quot;
+    </a><br>
+    (with Stephen Cheung, Arquette Milin-Byrne, and Agnieszka Tymula) <br>
+     <strong>Under Review</strong>
+  </li>
+
 
   <li>
     <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4655454">
       &quot;Ambiguity Vulnerability&quot;
     </a><br>
     (with Mahdi Akbari, Vinayak Alladi, Agnieszka Tymula, and Jingni Yang)
-  </li>
-
-  <li>
-    <a href="https://hyundamje.github.io/papers/Stress.pdf">
-      &quot;Time Preferences under Stress&quot;
-    </a><br>
-    (with Stephen Cheung, Arquette Milin-Byrne, and Agnieszka Tymula)
   </li>
 
   <li>
