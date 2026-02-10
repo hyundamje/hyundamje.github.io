@@ -7,7 +7,8 @@ author_profile: true
 
 ---
 
-### Working Papers
+
+### Publications
 <ul style="margin-top:1.25rem;">
 <li>
   <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4092231">
@@ -16,6 +17,12 @@ author_profile: true
   (with Alexander L. Brown and Huiyi Guo)<br>
   <strong>Accepted, Journal of Economic Theory</strong>
 </li>
+  
+</ul>
+
+
+### Working Papers
+<ul style="margin-top:1.25rem;">
 
   <li>
   <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5013019">
