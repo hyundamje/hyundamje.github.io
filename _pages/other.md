@@ -15,8 +15,8 @@ to Asian Meeting on Behavioral and Experimental Research (AMBER). </li>
 
 
 <div style="width: 100%; display: flex; justify-content: center; margin-top: 20px;">
-  <img src="/images/amber.png" alt="amber" width="450"
-       style="border-radius: 10px;" />
+  <img src="/images/amber.png" alt="amber"
+       style="width: 100%; max-width: 500px; border-radius: 10px;" />
 </div>
 
 <p style="font-size: 0.75em; text-align: center;">
