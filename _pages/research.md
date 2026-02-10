@@ -14,7 +14,7 @@ author_profile: true
     &quot;Preferences for the Resolution of Risk and Ambiguity&quot;
   </a><br>
   (with Alexander L. Brown and Huiyi Guo)<br>
-  <strong>Conditionally Accepted, Journal of Economic Theory</strong>
+  <strong>Accepted, Journal of Economic Theory</strong>
 </li>
 
   <li>
