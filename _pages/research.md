@@ -91,6 +91,13 @@ author_profile: true
   (with Minseo Choi, Jeong Yeol Kim, and Euncheol Shin)<br>
   Experimental Design in Progress
   </li>
-    
+
+   <li>
+  <span style="color:#2a7ae2;">
+    &quot;Belief and Response Asymmetry”&quot;
+  </span><br>
+  Experimental Design in Progress
+  </li>
+      
 </ul>
 
