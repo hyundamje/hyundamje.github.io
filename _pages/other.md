@@ -7,6 +7,18 @@ author_profile: true
 
 ---
 
-### Other
+### Contribution to the World of Economics
 
-Other
+I contributed to the renaming of the **East Asia Experimental and Behavioral Economics Workshop (EAEBEW)**  
+to **Asia Meeting on Behavioral and Experimental Research (AMBER)**
+
+<div style="width: 100%; display: flex; justify-content: center; margin-top: 20px;">
+  <img src="/images/amber.png" alt="amber" width="300"
+       style="border-radius: 10px;" />
+</div>
+
+<p style="font-size: 0.8em; color: #777; text-align: center;">
+A slide presented at the East Asia Experimental and Behavioral Economics Workshop, Taipei (2025).
+</p>
+
+
