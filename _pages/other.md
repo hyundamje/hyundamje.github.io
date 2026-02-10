@@ -20,7 +20,7 @@ to <strong>Asia Meeting on Behavioral and Experimental Research (AMBER)</strong>
 </div>
 
 <p style="font-size: 0.8em; color: #777; text-align: center;">
-A slide presented at EAEBEW, Taipei (2025).
+A slide presented at the workshop in Taipei, Taiwan (2025).
 </p>
 
 
