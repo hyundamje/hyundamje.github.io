@@ -47,6 +47,10 @@ small, .small { font-size: $type-size-6; }
 
 p { margin-bottom: 1.3em; }
 
+strong, b {
+  font-weight: 600;
+}
+
 u, ins {
   text-decoration: none;
   border-bottom: 1px solid var(--global-text-color);
