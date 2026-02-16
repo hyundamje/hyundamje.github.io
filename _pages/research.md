@@ -15,7 +15,7 @@ author_profile: true
     &quot;Preferences for the Resolution of Risk and Ambiguity&quot;
   </a><br>
   (with Alexander L. Brown and Huiyi Guo)<br>
-  <strong style="font-family: 'Crimson Pro', serif;">
+  <strong style="font-family: 'Source Serif 4', serif;">
   Forthcoming, Journal of Economic Theory
 </strong>
 </li>
