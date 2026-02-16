@@ -11,7 +11,7 @@ author_profile: true
 ### Publications
 <ul style="margin-top:1.25rem;">
 <li>
-  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4092231">
+  <a href="https://www.sciencedirect.com/science/article/pii/S0022053126000153">
     &quot;Preferences for the Resolution of Risk and Ambiguity&quot;
   </a><br>
   (with Alexander L. Brown and Huiyi Guo)<br>
