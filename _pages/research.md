@@ -12,13 +12,16 @@ author_profile: true
 <ul style="margin-top:1.25rem;">
 <li>
   <a href="https://www.sciencedirect.com/science/article/pii/S0022053126000153">
-    &quot;Preferences for the Resolution of Risk and Ambiguity&quot;
+    "Preferences for the Resolution of Risk and Ambiguity"
   </a><br>
-  (with Alexander L. Brown and Huiyi Guo)<br>
-  <strong> Journal of Economic Theory,</strong> forthcoming
+  <span style="display:inline-block; margin-left:0.3em;">
+    with Alexander L. Brown and Huiyi Guo
+  </span><br>
+  <span style="display:inline-block; margin-left:0.3em;">
+    <strong>Journal of Economic Theory,</strong> forthcoming
+  </span>
 </li>
-  
-</ul>
+
 
 
 ### Working Papers
@@ -102,28 +105,39 @@ author_profile: true
 
 ### Selected Work in Progress
   <ul style="margin-top:1.25rem;">
-  <li>
-  <span style="color:#2a7ae2;">
-    &quot;First Impressions Last: Order of Information in Politicized Motivated Reasoning&quot;
-  </span><br>
-  (with Daeyoung Jeong and Sora Youn)<br>
-  Data Acquisition Completed
-  </li>
-    
-  <li>
-  <span style="color:#2a7ae2;">
-    &quot;The Cost of Avoiding Belief-Incongruent Information&quot;
-  </span><br>
-  (with Minseo Choi, Jeong Yeol Kim, and Euncheol Shin)<br>
-  Experimental Design in Progress
-  </li>
+  <ul style="margin-top:1.25rem;">
 
-   <li>
+<li>
   <span style="color:#2a7ae2;">
-    &quot;Belief and Response Asymmetry&quot;
+    "First Impressions Last: Order of Information in Politicized Motivated Reasoning"
   </span><br>
-  Experimental Design in Progress
-  </li>
-      
+  <span style="display:inline-block; margin-left:0.3em;">
+    Data Acquisition Completed
+  </span>
+</li>
+
+<li>
+  <span style="color:#2a7ae2;">
+    "The Cost of Avoiding Belief-Incongruent Information"
+  </span><br>
+  <span style="display:inline-block; margin-left:0.3em;">
+    with Minseo Choi, Jeong Yeol Kim, and Euncheol Shin
+  </span><br>
+  <span style="display:inline-block; margin-left:0.3em;">
+    Experimental Design in Progress
+  </span>
+</li>
+
+<li>
+  <span style="color:#2a7ae2;">
+    "Belief and Response Asymmetry"
+  </span><br>
+  <span style="display:inline-block; margin-left:0.3em;">
+    Experimental Design in Progress
+  </span>
+</li>
+
+</ul>
+
 </ul>
 
