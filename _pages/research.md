@@ -21,7 +21,7 @@ author_profile: true
     <strong>Journal of Economic Theory,</strong> forthcoming
   </span>
 </li>
-
+</ul>
 
 
 ### Working Papers
@@ -101,10 +101,9 @@ author_profile: true
     with Alexander L. Brown, Ceyhun Eksin, and Martial Ndeffo Mbah
   </span>
 </li>
-
+</ul>
 
 ### Selected Work in Progress
-  <ul style="margin-top:1.25rem;">
   <ul style="margin-top:1.25rem;">
 
 <li>
@@ -136,8 +135,6 @@ author_profile: true
     Experimental Design in Progress
   </span>
 </li>
-
-</ul>
 
 </ul>
 
