@@ -26,12 +26,18 @@ author_profile: true
 
   <li>
   <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5013019">
-    &quot;Timing of Informativeness&quot;
+    "Timing of Informativeness"
   </a><br>
-  (with Sora Youn)<br>
-  <strong>R&amp;R, Games and Economic Behavior</strong>
-  </li>
-  
+
+  <span style="display:inline-block; margin-left:0.2em;">
+    with Sora Youn
+  </span><br>
+
+  <span style="display:inline-block; margin-left:0.2em;">
+    <strong>R&amp;R, Games and Economic Behavior</strong>
+  </span>
+</li>
+
   <li>
   <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5673730">
     "Does the Size of the Signal Space Matter?"
