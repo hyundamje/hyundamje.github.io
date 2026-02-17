@@ -114,7 +114,7 @@ author_profile: true
     with Daeyoung Jeong and Sora Youn
   </span><br>
   <span style="display:inline-block; margin-left:0.3em;">
-    Data Acquisition Completed
+    <em>Data Acquisition Completed</em>
   </span>
 </li>
 
@@ -126,7 +126,7 @@ author_profile: true
     with Minseo Choi, Jeong Yeol Kim, and Euncheol Shin
   </span><br>
   <span style="display:inline-block; margin-left:0.3em;">
-    Experimental Design in Progress
+    <em>Experimental Design in Progress</em>
   </span>
 </li>
 
@@ -135,7 +135,7 @@ author_profile: true
     "Belief and Response Asymmetry"
   </span><br>
   <span style="display:inline-block; margin-left:0.3em;">
-    Experimental Design in Progress
+    <em>Experimental Design in Progress</em>
   </span>
 </li>
 
