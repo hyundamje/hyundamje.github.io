@@ -24,10 +24,10 @@ author_profile: true
 
 <li>
   <a href="https://www.sciencedirect.com/science/article/pii/S0022053126000153">
-    "Test"
+    "Test2"
   </a><br>
   <span style="display:inline-block; margin-left:0.45em;">
-    Test
+    Test2
   </span><br>
 
 </li>
