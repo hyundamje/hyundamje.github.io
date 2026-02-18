@@ -14,10 +14,10 @@ author_profile: true
   <a href="https://www.sciencedirect.com/science/article/pii/S0022053126000153">
     "Preferences for the Resolution of Risk and Ambiguity"
   </a><br>
-  <span style="display:inline-block; margin-left:0.35em;">
+  <span style="display:inline-block; margin-left:0.4em;">
     with Alexander L. Brown and Huiyi Guo
   </span><br>
-  <span style="display:inline-block; margin-left:0.35em;">
+  <span style="display:inline-block; margin-left:0.4em;">
     <strong>Journal of Economic Theory,</strong> forthcoming
   </span>
 </li>
@@ -31,10 +31,10 @@ author_profile: true
   <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5013019">
     "Timing of Informativeness"
   </a><br>
-  <span style="display:inline-block; margin-left:0.35em;">
+  <span style="display:inline-block; margin-left:0.4em;">
     with Sora Youn
   </span><br>
-  <span style="display:inline-block; margin-left:0.35em;">
+  <span style="display:inline-block; margin-left:0.4em;">
     <strong>R&amp;R, Games and Economic Behavior</strong>
   </span>
   </li>
