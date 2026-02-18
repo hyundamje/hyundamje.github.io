@@ -31,10 +31,10 @@ author_profile: true
   <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5013019">
     "Timing of Informativeness"
   </a><br>
-  <span style="display:inline-block; margin-left:0.3em;">
+  <span style="display:inline-block; margin-left:0.4em;">
     with Sora Youn
   </span><br>
-  <span style="display:inline-block; margin-left:0.3em;">
+  <span style="display:inline-block; margin-left:0.4em;">
     <strong>R&amp;R, Games and Economic Behavior</strong>
   </span>
   </li>
