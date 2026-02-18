@@ -14,10 +14,10 @@ author_profile: true
   <a href="https://www.sciencedirect.com/science/article/pii/S0022053126000153">
     "Preferences for the Resolution of Risk and Ambiguity"
   </a><br>
-  <span style="display:inline-block; margin-left:0.3em;">
+  <span style="display:inline-block; margin-left:0.35em;">
     with Alexander L. Brown and Huiyi Guo
   </span><br>
-  <span style="display:inline-block; margin-left:0.3em;">
+  <span style="display:inline-block; margin-left:0.35em;">
     <strong>Journal of Economic Theory,</strong> forthcoming
   </span>
 </li>
