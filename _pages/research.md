@@ -14,23 +14,14 @@ author_profile: true
   <a href="https://www.sciencedirect.com/science/article/pii/S0022053126000153">
     "Preferences for the Resolution of Risk and Ambiguity"
   </a><br>
-  <span style="display:inline-block; margin-left:0.4em;">
+  <span style="display:inline-block; margin-left:0.45em;">
     with Alexander L. Brown and Huiyi Guo
   </span><br>
-  <span style="display:inline-block; margin-left:0.4em;">
+  <span style="display:inline-block; margin-left:0.45em;">
     <strong>Journal of Economic Theory,</strong> forthcoming
   </span>
 </li>
 
-<li>
-  <a href="https://www.sciencedirect.com/science/article/pii/S0022053126000153">
-    "Test2"
-  </a><br>
-  <span style="display:inline-block; margin-left:0.45em;">
-    Test2
-  </span><br>
-
-</li>
   
 </ul>
 
@@ -42,10 +33,10 @@ author_profile: true
   <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5013019">
     "Timing of Informativeness"
   </a><br>
-  <span style="display:inline-block; margin-left:0.4em;">
+  <span style="display:inline-block; margin-left:0.45em;">
     with Sora Youn
   </span><br>
-  <span style="display:inline-block; margin-left:0.4em;">
+  <span style="display:inline-block; margin-left:0.45em;">
     <strong>R&amp;R, Games and Economic Behavior</strong>
   </span>
   </li>
@@ -54,13 +45,13 @@ author_profile: true
   <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5673730">
     "Does the Size of the Signal Space Matter?"
   </a><br>
-  <span style="display:inline-block; margin-left:0.35em;">
+  <span style="display:inline-block; margin-left:0.45em;">
     with Daeyoung Jeong
   </span><br>
-  <span style="display:inline-block; margin-left:0.35em;">
+  <span style="display:inline-block; margin-left:0.45em;">
     <strong>Under Review</strong>
   </span>
-  <div style="font-size: 0.85em; margin-top: 2px; margin-left:0.35em; line-height: 1.3;">
+  <div style="font-size: 0.85em; margin-top: 2px; margin-left:0.45em; line-height: 1.3;">
     <em>This paper previously circulated under the title
     "Signal Space Puzzle: Bigger is (Not Always) Better"</em>
   </div>
@@ -71,10 +62,10 @@ author_profile: true
   <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5747923">
     "Socioeconomic Status and Risk-Taking Anomalies: Evidence from Online Gambling"
   </a><br>
-  <span style="display:inline-block; margin-left:0.35em;">
+  <span style="display:inline-block; margin-left:0.45em;">
     with Sally Gainsbury, Robert Heirene, Emily Shaw, and Agnieszka Tymula
   </span><br>
-  <span style="display:inline-block; margin-left:0.35em;">
+  <span style="display:inline-block; margin-left:0.45em;">
     <strong>Under Review</strong>
   </span>
 </li>
@@ -85,10 +76,10 @@ author_profile: true
   <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6171586">
     "Time Preferences under Stress"
   </a><br>
-  <span style="display:inline-block; margin-left:0.35em;">
+  <span style="display:inline-block; margin-left:0.45em;">
     with Stephen Cheung, Arquette Milin-Byrne, and Agnieszka Tymula
   </span><br>
-  <span style="display:inline-block; margin-left:0.35em;">
+  <span style="display:inline-block; margin-left:0.45em;">
     <strong>Under Review</strong>
   </span>
 </li>
@@ -99,7 +90,7 @@ author_profile: true
   <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4655454">
     "Ambiguity Vulnerability"
   </a><br>
-  <span style="display:inline-block; margin-left:0.35em;">
+  <span style="display:inline-block; margin-left:0.45em;">
     with Mahdi Akbari, Vinayak Alladi, Agnieszka Tymula, and Jingni Yang
   </span>
 </li>
@@ -108,7 +99,7 @@ author_profile: true
   <span style="color:#2a7ae2;">
     "Preferences over Ambiguity in Vaccination Decision"
   </span><br>
-  <span style="display:inline-block; margin-left:0.35em;">
+  <span style="display:inline-block; margin-left:0.45em;">
     with Alexander L. Brown, Ceyhun Eksin, and Martial Ndeffo Mbah
   </span>
 </li>
@@ -121,10 +112,10 @@ author_profile: true
   <span style="color:#2a7ae2;">
     "First Impressions Last: Order of Information in Politicized Motivated Reasoning"
   </span><br>
-   <span style="display:inline-block; margin-left:0.35em;">
+   <span style="display:inline-block; margin-left:0.45em;">
     with Daeyoung Jeong and Sora Youn
   </span><br>
-  <span style="display:inline-block; margin-left:0.35em;">
+  <span style="display:inline-block; margin-left:0.45em;">
     <em>Data Acquisition Completed</em>
   </span>
 </li>
@@ -133,10 +124,10 @@ author_profile: true
   <span style="color:#2a7ae2;">
     "The Cost of Avoiding Belief-Incongruent Information"
   </span><br>
-  <span style="display:inline-block; margin-left:0.35em;">
+  <span style="display:inline-block; margin-left:0.45em;">
     with Minseo Choi, Jeong Yeol Kim, and Euncheol Shin
   </span><br>
-  <span style="display:inline-block; margin-left:0.35em;">
+  <span style="display:inline-block; margin-left:0.45em;">
     <em>Experimental Design in Progress</em>
   </span>
 </li>
@@ -145,7 +136,7 @@ author_profile: true
   <span style="color:#2a7ae2;">
     "Belief and Response Asymmetry"
   </span><br>
-  <span style="display:inline-block; margin-left:0.35em;">
+  <span style="display:inline-block; margin-left:0.45em;">
     <em>Experimental Design in Progress</em>
   </span>
 </li>
