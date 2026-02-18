@@ -26,7 +26,7 @@ author_profile: true
   <a href="https://www.sciencedirect.com/science/article/pii/S0022053126000153">
     "Test"
   </a><br>
-  <span style="display:inline-block; margin-left:0.4em;">
+  <span style="display:inline-block; margin-left:0.45em;">
     Test
   </span><br>
 
