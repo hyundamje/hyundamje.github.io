@@ -21,6 +21,17 @@ author_profile: true
     <strong>Journal of Economic Theory,</strong> forthcoming
   </span>
 </li>
+
+<li>
+  <a href="https://www.sciencedirect.com/science/article/pii/S0022053126000153">
+    "Test"
+  </a><br>
+  <span style="display:inline-block; margin-left:0.4em;">
+    Test
+  </span><br>
+
+</li>
+  
 </ul>
 
 
