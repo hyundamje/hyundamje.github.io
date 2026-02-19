@@ -29,18 +29,6 @@ author_profile: true
 ### Working Papers
 <ul style="margin-top:1.25rem;">
 
-  <li>
-  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5013019">
-    "Timing of Informativeness"
-  </a><br>
-  <span style="display:inline-block; margin-left:0.45em;">
-    with Sora Youn
-  </span><br>
-  <span style="display:inline-block; margin-left:0.45em;">
-    <strong>R&amp;R, Games and Economic Behavior</strong>
-  </span>
-  </li>
-
 <li>
   <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5013019">
     Timing of Informativeness
@@ -51,67 +39,45 @@ author_profile: true
 
 <li>
   <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5673730">
-    "Does the Size of the Signal Space Matter?"
+    Does the Size of the Signal Space Matter?
   </a><br>
-  <span style="display:inline-block; margin-left:0.45em;">
-    with Daeyoung Jeong
-  </span><br>
-  <span style="display:inline-block; margin-left:0.45em;">
-    <strong>Under Review</strong>
-  </span>
-  <div style="font-size: 0.85em; margin-top: 2px; margin-left:0.45em; line-height: 1.3;">
-    <em>This paper previously circulated under the title
-    "Signal Space Puzzle: Bigger is (Not Always) Better"</em>
-  </div>
+  with Daeyoung Jeong<br>
+  <strong>Under Review</strong><br>
+  <em>This paper previously circulated under the title
+  Signal Space Puzzle: Bigger is (Not Always) Better</em>
 </li>
 
 
   <li>
   <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5747923">
-    "Socioeconomic Status and Risk-Taking Anomalies: Evidence from Online Gambling"
+    Socioeconomic Status and Risk-Taking Anomalies: Evidence from Online Gambling
   </a><br>
-  <span style="display:inline-block; margin-left:0.45em;">
-    with Sally Gainsbury, Robert Heirene, Emily Shaw, and Agnieszka Tymula
-  </span><br>
-  <span style="display:inline-block; margin-left:0.45em;">
-    <strong>Under Review</strong>
-  </span>
+  with Sally Gainsbury, Robert Heirene, Emily Shaw, and Agnieszka Tymula<br>
+  <strong>Under Review</strong>
 </li>
 
-
-
-  <li>
+<li>
   <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6171586">
-    "Time Preferences under Stress"
+    Time Preferences under Stress
   </a><br>
-  <span style="display:inline-block; margin-left:0.45em;">
-    with Stephen Cheung, Arquette Milin-Byrne, and Agnieszka Tymula
-  </span><br>
-  <span style="display:inline-block; margin-left:0.45em;">
-    <strong>Under Review</strong>
-  </span>
+  with Stephen Cheung, Arquette Milin-Byrne, and Agnieszka Tymula<br>
+  <strong>Under Review</strong>
 </li>
 
-
-
-  <li>
+<li>
   <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4655454">
-    "Ambiguity Vulnerability"
+    Ambiguity Vulnerability
   </a><br>
-  <span style="display:inline-block; margin-left:0.45em;">
-    with Mahdi Akbari, Vinayak Alladi, Agnieszka Tymula, and Jingni Yang
-  </span>
+  with Mahdi Akbari, Vinayak Alladi, Agnieszka Tymula, and Jingni Yang
 </li>
 
 <li>
   <span style="color:#2a7ae2;">
-    "Preferences over Ambiguity in Vaccination Decision"
+    Preferences over Ambiguity in Vaccination Decision
   </span><br>
-  <span style="display:inline-block; margin-left:0.45em;">
-    with Alexander L. Brown, Ceyhun Eksin, and Martial Ndeffo Mbah
-  </span>
+  with Alexander L. Brown, Ceyhun Eksin, and Martial Ndeffo Mbah
 </li>
-</ul>
+
 
 ### Selected Work in Progress
   <ul style="margin-top:1.25rem;">
