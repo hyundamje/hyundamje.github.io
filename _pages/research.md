@@ -19,9 +19,6 @@ author_profile: true
   </li>
 </ul>
 
-  
-</ul>
-
 
 ### Working Papers
 <ul style="margin-top:1.25rem;">
