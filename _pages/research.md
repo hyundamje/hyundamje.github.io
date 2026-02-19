@@ -78,42 +78,34 @@ author_profile: true
   with Alexander L. Brown, Ceyhun Eksin, and Martial Ndeffo Mbah
 </li>
 
+</ul>
 
 ### Selected Work in Progress
   <ul style="margin-top:1.25rem;">
 
 <li>
   <span style="color:#2a7ae2;">
-    "First Impressions Last: Order of Information in Politicized Motivated Reasoning"
+    First Impressions Last: Order of Information in Politicized Motivated Reasoning
   </span><br>
-   <span style="display:inline-block; margin-left:0.45em;">
-    with Daeyoung Jeong and Sora Youn
-  </span><br>
-  <span style="display:inline-block; margin-left:0.45em;">
-    <em>Data Acquisition Completed</em>
-  </span>
+  with Daeyoung Jeong and Sora Youn<br>
+  <em>Data Acquisition Completed</em>
 </li>
 
 <li>
   <span style="color:#2a7ae2;">
-    "The Cost of Avoiding Belief-Incongruent Information"
+    The Cost of Avoiding Belief-Incongruent Information
   </span><br>
-  <span style="display:inline-block; margin-left:0.45em;">
-    with Minseo Choi, Jeong Yeol Kim, and Euncheol Shin
-  </span><br>
-  <span style="display:inline-block; margin-left:0.45em;">
-    <em>Experimental Design in Progress</em>
-  </span>
+  with Minseo Choi, Jeong Yeol Kim, and Euncheol Shin<br>
+  <em>Experimental Design in Progress</em>
 </li>
 
 <li>
   <span style="color:#2a7ae2;">
-    "Belief and Response Asymmetry"
+    Belief and Response Asymmetry
   </span><br>
-  <span style="display:inline-block; margin-left:0.45em;">
-    <em>Experimental Design in Progress</em>
-  </span>
+  <em>Experimental Design in Progress</em>
 </li>
+
 
 </ul>
 
