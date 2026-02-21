@@ -33,3 +33,17 @@ A slide presented at the workshop in Taipei, Taiwan (2025)
   I have made ongoing contributions to the journal ecosystem by repeatedly paying submission fees and getting rejected.
 </li>
 </ul>
+
+
+<!--
+### Tekken
+<ul style="margin-top:0.25rem">
+<li> I started playing Tekken 3 on the PlayStation 1 as a child. In 2009, I joined Tekken Team “Axis of Evil,” based in Pyeongchon and Seoul. I spent much of my early time at Green Arcade, a central hub of the Korean Tekken scene. Our team appeared on Tekken Crash, a nationally broadcast competition.
+This video shows one of our matches against Resurrection, including Knee,
+widely regarded as the greatest player in Tekken history
+(<a href="https://www.youtube.com/watch?v=yewekjGoKFc" target="_blank">video</a>). </li>    
+
+<li> </li>    
+  
+</ul>
+-->
