@@ -93,13 +93,14 @@ author_profile: true
   <em>Experimental Design in Progress</em>
 </li>
 
+<!--
 <li>
   <span style="color:#2a7ae2;">
     Belief and Response Asymmetry
   </span><br>
   <em>Experimental Design in Progress</em>
 </li>
-
+-->
 
 </ul>
 
