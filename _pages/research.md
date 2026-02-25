@@ -15,7 +15,7 @@ author_profile: true
       Preferences for the Resolution of Risk and Ambiguity
     </a><br>
     with Alexander L. Brown and Huiyi Guo<br>
-    <strong>Journal of Economic Theory</strong> 232 (2026),106151
+    <strong>Journal of Economic Theory</strong>, March 2026 
   </li>
 </ul>
 
