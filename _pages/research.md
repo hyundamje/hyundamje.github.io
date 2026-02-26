@@ -90,7 +90,7 @@ author_profile: true
     The Cost of Avoiding Belief-Incongruent Information
   </span><br>
   with Minseo Choi, Jeong Yeol Kim, and Euncheol Shin<br>
-  <em>Experimental Design in Progress</em>
+  <em>Under Development</em>
 </li>
 
 <!--
