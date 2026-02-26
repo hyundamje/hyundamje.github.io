@@ -22,7 +22,7 @@ author_profile: true
 <br>
 -->
 
-### Seminar and Conference Presentations
+### Conference Presentations and Invited Talks
 
 
 <div style="margin:1rem 0 0.25rem 0rem;">
@@ -31,6 +31,7 @@ author_profile: true
 
 <ul style="margin-top:0.25rem">
   <li>Korea’s Allied Economic Associations Annual Meeting (Discussant), Seoul</li>  
+  <li>SNU Workshop on Behavioral and Experimental Economics, Seoul</li>   
 </ul>
 
 <div style="margin:1rem 0 0.25rem 0rem;">
