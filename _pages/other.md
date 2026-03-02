@@ -41,8 +41,7 @@ A slide presented at the workshop in Taipei, Taiwan (2025)
 <li> I started playing Tekken 3 on the PlayStation 1 as a child. In 2009, I joined Tekken Team “Axis of Evil,” based in Pyeongchon and Seoul. I spent much of my time playing at Green Arcade, a central hub of the Korean Tekken scene. Our team appeared on Tekken Crash, a nationally broadcast competition.
 <a href="https://www.youtube.com/watch?v=yewekjGoKFc" target="_blank">This video</a> shows one of our matches against the team “Resurrection,” which included Knee, widely regarded as the greatest player in Tekken history.<br><br>
 
-I still play Tekken 8 and currently hold the rank of Tekken Emperor (26th Dan). My in-game Id is Texas
-TacoMan &lt;AoE&gt;   </li>    
+I still play Tekken 8 and currently hold the rank of Tekken Emperor (26th Dan). My in-game Id is TexasTacoMan &lt;AoE&gt;   </li>    
 
 <div style="width: 100%; display: flex; justify-content: center; margin-top: 20px;">
   <img src="/images/tekken.jpg" alt="amber"
