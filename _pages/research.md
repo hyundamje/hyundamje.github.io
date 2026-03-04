@@ -21,7 +21,7 @@ author_profile: true
 
 
 ### Working Papers
-<ul style="margin-top:1.25rem;">
+<ul style="margin-top:1.25rem; list-style-type:circle;">
 
 <li>
   <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5013019">
