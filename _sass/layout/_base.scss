@@ -123,6 +123,12 @@ hr {
 ul li, ol li { margin-bottom: 0.5em; }
 li ul, li ol { margin-top: 0.5em; }
 
+/* smaller list bullets */
+li::marker {
+  font-size: 0.8em;
+}
+
+
 /* Media and embeds */
 figure {
   display: -webkit-box; display: flex;
