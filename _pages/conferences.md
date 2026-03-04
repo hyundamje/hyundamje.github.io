@@ -95,11 +95,12 @@ author_profile: true
 
 ### Workshop Participations
 
-- The 3rd Caltech Summer School in Theory-Based Experiments, Pasadena, 2024
-- UChicago & SNU Summer School on Socioeconomic Opportunity and Inequality, Seoul, 2023  
-- The 33rd Advanced School in Economic Theory, Jerusalem, 2023  
-- NHH & UCSD Spring School in Behavioral Economics, San Diego, 2022  
-
+<ul style="margin-top:0.25rem; list-style-type:'• ';">
+<li> The 3rd Caltech Summer School in Theory-Based Experiments, Pasadena, 2024
+<li> UChicago & SNU Summer School on Socioeconomic Opportunity and Inequality, Seoul, 2023  
+<li> The 33rd Advanced School in Economic Theory, Jerusalem, 2023  
+<li> NHH & UCSD Spring School in Behavioral Economics, San Diego, 2022  
+</ul>
 ---
 
 <div style="text-align: center; font-size: 90%; margin-top: 2em;">
