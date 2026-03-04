@@ -9,7 +9,7 @@ author_profile: true
 
 
 ### Publications
-<ul style="margin-top:1.25rem;">
+<ul style="margin-top:1.25rem; list-style-type:'◦ ';">
   <li>
     <a href="https://www.sciencedirect.com/science/article/pii/S0022053126000153">
       Preferences for the Resolution of Risk and Ambiguity
