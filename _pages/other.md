@@ -8,7 +8,7 @@ author_profile: true
 ---
 
 ### Contributions to the World of Economics
-<ul style="margin-top:0.25rem">
+<ul style="margin-top:1rem; list-style-type:'◦ ';">
 <li> I contributed to the renaming of the East Asia Experimental and Behavioral Economics Workshop (EAEBEW)
 to Asian Meeting on Behavioral and Experimental Research (AMBER). </li>    
 
@@ -37,7 +37,7 @@ A slide presented at the workshop in Taipei, Taiwan (2025)
 
 
 ### Tekken
-<ul style="margin-top:0.25rem">
+<ul style="margin-top:1rem; list-style-type:'◦ ';">
 <li> I started playing Tekken 3 on the PlayStation 1 as a child. In 2009, I joined Tekken Team “Axis of Evil,” based in Pyeongchon and Seoul. I spent much of my time playing at Green Arcade, a central hub of the Korean Tekken scene. Our team appeared on Tekken Crash, a nationally broadcast competition.
 <a href="https://www.youtube.com/watch?v=yewekjGoKFc" target="_blank">This video</a> shows one of our matches against the team “Resurrection,” which included Knee, widely regarded as the greatest player in Tekken history.<br><br>
 
