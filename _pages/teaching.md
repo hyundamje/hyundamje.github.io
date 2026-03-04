@@ -8,7 +8,7 @@ author_profile: true
 ---
 
 ### Instructor
-<ul style="margin-top:0.25rem">
+<ul style="margin-top:1.25rem; list-style-type:'◦ ';">
 <li> Principles of Microeconomics (Undergraduate, University of Seoul) </li>    
 <li> Behavioral Economics (Undergraduate, University of Seoul) </li>  
 <li> Experimental Economics (Graduate, University of Seoul)  </li>
@@ -17,7 +17,7 @@ author_profile: true
 
 ### Teaching Assistant
 
-<ul style="margin-top:0.25rem">
+<ul style="margin-top:1.25rem; list-style-type:'◦ ';">
 <li> Principles of Microeconomics (Undergraduate, Texas A&M University) </li>   
 <li> Behavioral Financial Economics (Master’s, Texas A&M University) </li>   
 <li> Experimental Economics (PhD, Texas A&M University) </li>   
