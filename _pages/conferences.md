@@ -29,7 +29,7 @@ author_profile: true
   <span style="color:#2a7ae2;">2026</span> <span style="font-size:0.8rem;">(including scheduled presentations)</span>
 </div>
 
-<ul style="margin-top:0.25rem">
+<ul style="margin-top:1.25rem; list-style-type:'◦ ';">
   <li>Korea’s Allied Economic Associations Annual Meeting (Discussant), Seoul</li>  
   <li>SNU Workshop on Experimental and Theoretical Economics, Seoul</li>   
 </ul>
@@ -38,7 +38,7 @@ author_profile: true
   <span style="color:#2a7ae2;">2025</span> 
 </div>
 
-<ul style="margin-top:0.25rem">
+<ul style="margin-top:1.25rem; list-style-type:'◦ ';">
   <li>Binghamton University</li>
   <li>Asia-Pacific Economic Science Association Conference, Osaka</li>
   <li>University of Melbourne</li>
