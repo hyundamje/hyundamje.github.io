@@ -21,7 +21,7 @@ author_profile: true
 
 
 ### Working Papers
-<ul style="margin-top:1.25rem; list-style-type:circle;">
+<ul style="margin-top:1.25rem; list-style-type:'◦ ';">
 
 <li>
   <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5013019">
@@ -75,7 +75,7 @@ author_profile: true
 </ul>
 
 ### Selected Work in Progress
-  <ul style="margin-top:1.25rem;">
+  <ul style="margin-top:1.25rem; list-style-type:'◦ ';">
 
 <li>
   <span style="color:#2a7ae2;">
