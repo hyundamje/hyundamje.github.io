@@ -95,7 +95,7 @@ author_profile: true
 
 ### Workshop Participations
 
-<ul style="margin-top:0.25rem; list-style-type:'◦ ';">
+<ul style="margin-top:1.25rem; list-style-type:'◦ ';">
 <li> The 3rd Caltech Summer School in Theory-Based Experiments, Pasadena, 2024
 <li> UChicago & SNU Summer School on Socioeconomic Opportunity and Inequality, Seoul, 2023  
 <li> The 33rd Advanced School in Economic Theory, Jerusalem, 2023  
