@@ -87,11 +87,20 @@ author_profile: true
 
 <li>
   <span style="color:#2a7ae2;">
-    The Cost of Avoiding Belief-Incongruent Information
+    Cost of Avoiding Belief-Incongruent Information
   </span><br>
   with Minseo Choi, Jeong Yeol Kim, and Euncheol Shin<br>
   <em>Experimental Design in Progress</em>
 </li>
+
+<li>
+  <span style="color:#2a7ae2;">
+    Social Tipping for AI Disclosure
+  </span><br>
+  with Manuel Hoffmann and Nanyin Yang<br>
+  <em>Experimental Design in Progress</em>
+</li>
+
 
 <!--
 <li>
