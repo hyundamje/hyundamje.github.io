@@ -96,12 +96,12 @@ author_profile: true
 ### Workshop Participations
 
 <ul style="margin-top:1.25rem; list-style-type:circle;">
-<li> The 3rd Caltech Summer School in Theory-Based Experiments, Pasadena, 2024
-<li> UChicago & SNU Summer School on Socioeconomic Opportunity and Inequality, Seoul, 2023  
-<li> The 33rd Advanced School in Economic Theory, Jerusalem, 2023  
-<li> NHH & UCSD Spring School in Behavioral Economics, San Diego, 2022  
+<li> The 3rd Caltech Summer School in Theory-Based Experiments, Pasadena, 2024 </li>
+<li> UChicago & SNU Summer School on Socioeconomic Opportunity and Inequality, Seoul, 2023  </li>
+<li> The 33rd Advanced School in Economic Theory, Jerusalem, 2023  </li>
+<li> NHH & UCSD Spring School in Behavioral Economics, San Diego, 2022  </li>
 </ul>
----
+
 
 <div style="text-align: center; font-size: 90%; margin-top: 2em;">
 The title of this page references <a href="https://sites.google.com/view/giovanniburro/have-we-met" target="_blank">Giovanni Burro</a>, whom I met at ESA Singapore 2024
