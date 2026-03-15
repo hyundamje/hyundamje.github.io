@@ -103,6 +103,6 @@ author_profile: true
 </ul>
 
 
-<div style="text-align: center; font-size: 90%; margin-top: 2em;">
+<div style="text-align: center; font-size: 90%; margin-top: 3em;">
 The title of this page references <a href="https://sites.google.com/view/giovanniburro/have-we-met" target="_blank">Giovanni Burro</a>, whom I met at ESA Singapore 2024
 </div>
