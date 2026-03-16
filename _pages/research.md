@@ -82,7 +82,6 @@ author_profile: true
     First Impressions Last: Order of Information in Politicized Motivated Reasoning
   </span><br>
   with Daeyoung Jeong and Sora Youn<br>
-  Data Acquisition Completed
 </li>
 
 <li>
@@ -90,7 +89,6 @@ author_profile: true
     Cost of Avoiding Belief-Incongruent Information
   </span><br>
   with Minseo Choi, Jeong Yeol Kim, and Euncheol Shin<br>
-  Experimental Design in Progress
 </li>
 
 <li>
@@ -98,18 +96,17 @@ author_profile: true
     Social Tipping for AI Disclosure
   </span><br>
   with Manuel Hoffmann and Nanyin Yang<br>
-  Experimental Design in Progress
 </li>
 
 
-<!--
+
 <li>
   <span style="color:#2a7ae2;">
     Belief and Response Asymmetry
   </span><br>
-  Experimental Design in Progress
+  with Syngjoo Choi<br>
 </li>
--->
+
 
 </ul>
 
