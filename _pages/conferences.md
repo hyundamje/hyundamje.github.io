@@ -32,6 +32,7 @@ author_profile: true
 <ul style="margin-top:0.25rem; list-style-type:circle;">
   <li>Korea’s Allied Economic Associations Annual Meeting (Discussant), Seoul</li>  
   <li>SNU Workshop on Experimental and Theoretical Economics, Seoul</li>
+  <li>Korea University</li>   
   <li>Sophia University</li>   
 </ul>
 
