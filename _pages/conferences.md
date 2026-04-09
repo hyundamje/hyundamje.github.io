@@ -95,7 +95,7 @@ author_profile: true
 </ul>
 
 
-### Workshop Participations
+### Training Programs and Schools
 
 <ul style="margin-top:1.25rem; list-style-type:circle;">
 <li> The 3rd Caltech Summer School in Theory-Based Experiments, Pasadena, 2024 </li>
