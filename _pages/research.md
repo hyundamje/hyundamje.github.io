@@ -67,7 +67,7 @@ author_profile: true
 
 <li>
   <span style="color:#2a7ae2;">
-    Preferences over Ambiguity in Vaccination Decision
+    Ambiguity Aversion in Vaccination
   </span><br>
   with Alexander L. Brown, Ceyhun Eksin, and Martial Ndeffo Mbah
 </li>
