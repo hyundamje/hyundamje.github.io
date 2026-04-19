@@ -34,6 +34,7 @@ author_profile: true
   <li>SNU Workshop on Experimental and Theoretical Economics, Seoul</li>
   <li>Korea University</li>   
   <li>Sophia University</li>   
+  <li>University of Osaka</li>
 </ul>
 
 <div style="margin:1rem 0 0.25rem 0rem;">
