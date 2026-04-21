@@ -47,7 +47,7 @@ I still play Tekken 8 and currently hold the rank of Tekken God (27th Dan). My i
   <img src="/images/tekken_god.jpg" alt="amber"
        style="
        width: 100%;
-       max-width: 300px;
+       max-width: 350px;
        border-radius: 10px;
        border: 1px solid #e5e5e5;
        box-shadow: 0 2px 6px rgba(0,0,0,0.05);
