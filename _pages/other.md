@@ -44,7 +44,7 @@ A slide presented at the workshop in Taipei, Taiwan (2025)
 I still play Tekken 8 and currently hold the rank of Tekken Emperor (26th Dan). My in-game id is TexasTacoMan &lt;AoE&gt;   </li>    
 
 <div style="width: 100%; display: flex; justify-content: center; margin-top: 20px;">
-  <img src="/images/tekken.jpg" alt="amber"
+  <img src="/images/tekken_god.jpg" alt="amber"
        style="
        width: 100%;
        max-width: 300px;
