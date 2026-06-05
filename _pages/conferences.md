@@ -35,7 +35,6 @@ author_profile: true
   <li>Korea University</li>   
   <li>Sophia University</li>   
   <li>University of Osaka</li>
-  <li>Korean Economic Review International Conference, Jeju</li>
 </ul>
 
 <div style="margin:1rem 0 0.25rem 0rem;">
