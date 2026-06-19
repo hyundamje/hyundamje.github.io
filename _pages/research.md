@@ -86,7 +86,7 @@ author_profile: true
 
 <li>
   <span style="color:#2a7ae2;">
-    Cost of Avoiding Belief-Incongruent Information
+    Position-Induced Demand for Belief-Congruent Information
   </span><br>
   with Minseo Choi, Jeong Yeol Kim, and Euncheol Shin<br>
 </li>
