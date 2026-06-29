@@ -9,6 +9,8 @@ author_profile: true
 
 ### Instructor
 <ul style="margin-top:1rem; list-style-type:circle;">
+
+<li> Game Theory (Undergraduate, University of Seoul) </li>      
 <li> Principles of Microeconomics (Undergraduate, University of Seoul) </li>    
 <li> Behavioral Economics (Undergraduate, University of Seoul) </li>  
 <li> Experimental Economics (Graduate, University of Seoul)  </li>
