@@ -94,13 +94,11 @@ author_profile: true
   with Manuel Hoffmann and Nanyin Yang<br>
 </li>
 
-
-
 <li>
   <span style="color:#2a7ae2;">
-    Belief and Response Asymmetry
+    Narrative Depth
   </span><br>
-  with Syngjoo Choi<br>
+  with Syngjoo Choi and Evan Friedman <br>
 </li>
 
 
