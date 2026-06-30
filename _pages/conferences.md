@@ -35,7 +35,7 @@ author_profile: true
   <li>Korea University</li>   
   <li>Sophia University</li>   
   <li>University of Osaka</li>
-  <li>Korean Econometric Society Summer Conference, Seoul </li>
+  <li>Korean Econometric Society Summer Conference, Seoul</li>
 </ul>
 
 <div style="margin:1rem 0 0.25rem 0rem;">
