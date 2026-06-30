@@ -24,21 +24,19 @@ author_profile: true
 <ul style="margin-top:1rem; list-style-type:circle;">
 
 <li>
-  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5013019">
-    Timing of Informativeness
-  </a><br>
-  with Sora Youn<br>
-  <strong>R&amp;R, Games and Economic Behavior</strong>
-</li>
-
-<li>
   <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5673730">
     Does the Size of the Signal Space Matter?
   </a><br>
   with Daeyoung Jeong<br>
-  <strong>Under Review</strong><br>
   <em>This paper previously circulated under the title
   Signal Space Puzzle: Bigger is (Not Always) Better</em>
+</li>
+
+<li>
+  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5013019">
+    Timing of Informativeness
+  </a><br>
+  with Sora Youn<br>
 </li>
 
 
@@ -47,7 +45,6 @@ author_profile: true
     Socioeconomic Status and Risk-Taking Anomalies: Evidence from Online Gambling
   </a><br>
   with Sally Gainsbury, Robert Heirene, Emily Shaw, and Agnieszka Tymula<br>
-  <strong>Under Review</strong>
 </li>
 
 <li>
@@ -55,7 +52,6 @@ author_profile: true
     Time Preferences under Stress
   </a><br>
   with Stephen Cheung, Arquette Milin-Byrne, and Agnieszka Tymula<br>
-  <strong>Under Review</strong>
 </li>
 
 <li>
