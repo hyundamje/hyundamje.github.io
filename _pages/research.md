@@ -84,7 +84,7 @@ author_profile: true
   <span style="color:#2a7ae2;">
     Position-Induced Demand for Belief-Congruent Information
   </span><br>
-  with Minseo Choi, Jeong Yeol Kim, and Euncheol Shin<br>
+  with Minseo Choi and Jeong Yeol Kim<br>
 </li>
 
 <li>
