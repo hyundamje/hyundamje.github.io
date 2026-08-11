@@ -44,7 +44,7 @@ Slide presented at the workshop in Taipei (2025)
 I still play Tekken 8 and currently hold the rank of Hakaishin (God of Destruction). My in-game ID is TexasTacoMan &lt;AoE&gt;   </li>    
 
 <div style="width: 100%; display: flex; justify-content: center; margin-top: 20px;">
-  <img src="/images/tekken_godofd.jpg" alt="amber"
+  <img src="/images/tekken_godofd2.jpg" alt="amber"
        style="
        width: 100%;
        max-width: 350px;
