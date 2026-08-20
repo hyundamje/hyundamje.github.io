@@ -39,13 +39,13 @@ author_profile: true
   with Sora Youn<br>
 </li>
 
-
-  <li>
-  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5747923">
-    Socioeconomic Status and Risk-Taking Anomalies: Evidence from Online Gambling
+<li>
+  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4655454">
+    Ambiguity Vulnerability
   </a><br>
-  with Sally Gainsbury, Robert Heirene, Emily Shaw, and Agnieszka Tymula<br>
+  with Mahdi Akbari, Vinayak Alladi, Agnieszka Tymula, and Jingni Yang
 </li>
+
 
 <li>
   <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6171586">
@@ -54,18 +54,19 @@ author_profile: true
   with Stephen Cheung, Arquette Milin-Byrne, and Agnieszka Tymula<br>
 </li>
 
-<li>
-  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4655454">
-    Ambiguity Vulnerability
-  </a><br>
-  with Mahdi Akbari, Vinayak Alladi, Agnieszka Tymula, and Jingni Yang
-</li>
 
 <li>
    <a href="https://hyundamje.github.io/papers/Vaccine.pdf">
     Ambiguity and Vaccination Decisions
   </a><br>
   with Alexander L. Brown
+</li>
+
+<li>
+  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5747923">
+    Socioeconomic Status and Risk-Taking Anomalies: Evidence from Online Gambling
+  </a><br>
+  with Sally Gainsbury, Robert Heirene, Emily Shaw, and Agnieszka Tymula<br>
 </li>
 
 </ul>
