@@ -28,8 +28,7 @@ author_profile: true
     Does the Size of the Signal Space Matter?
   </a><br>
   with Daeyoung Jeong<br>
-  <em>This paper previously circulated under the title
-  Signal Space Puzzle: Bigger is (Not Always) Better</em>
+  <em>Previously circulated as “Signal Space Puzzle: Bigger is (Not Always) Better”</em>
 </li>
 
 <li>
