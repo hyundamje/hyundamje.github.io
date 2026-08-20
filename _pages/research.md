@@ -102,6 +102,11 @@ author_profile: true
   with Syngjoo Choi and Evan Friedman <br>
 </li>
 
-
+<li>
+  <span style="color:#2a7ae2;">
+    Holding AI Accountable? Outcome Bias in Human and AI Delegation
+  </span><br>
+  with Keh-Kuan Sun and Kelvin Yuen <br>
+</li>
 </ul>
 
