@@ -62,7 +62,7 @@ author_profile: true
 </li>
 
 <li>
-  <a href="/papers/Vaccine.pdf">
+   <a href="https://hyundamje.github.io/papers/Vaccine.pdf">
     Ambiguity and Vaccination Decisions
   </a><br>
   with Alexander L. Brown
