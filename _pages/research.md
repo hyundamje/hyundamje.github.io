@@ -65,7 +65,7 @@ author_profile: true
   <span style="color:#2a7ae2;">
     Ambiguity Aversion in Vaccination
   </span><br>
-  with Alexander L. Brown, Ceyhun Eksin, and Martial Ndeffo Mbah
+  with Alexander L. Brown
 </li>
 
 </ul>
