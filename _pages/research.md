@@ -62,9 +62,9 @@ author_profile: true
 </li>
 
 <li>
-  <span style="color:#2a7ae2;">
-    Ambiguity Aversion in Vaccination
-  </span><br>
+  <a href="/papers/Vaccine.pdf">
+    Ambiguity and Vaccination Decisions
+  </a><br>
   with Alexander L. Brown
 </li>
 
