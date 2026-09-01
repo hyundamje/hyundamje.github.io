@@ -82,7 +82,7 @@ author_profile: true
 
 <li>
   <span style="color:#2a7ae2;">
-    Position-Induced Demand for Belief-Congruent Information
+  Demand for Belief-Congruent Advice
   </span><br>
   with Minseo Choi and Jeong Yeol Kim<br>
 </li>
