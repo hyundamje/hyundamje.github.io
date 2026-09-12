@@ -37,6 +37,7 @@ author_profile: true
   <li>University of Osaka</li>
   <li>Korean Econometric Society Summer Conference, Seoul</li>
   <li>Hanyang University ERICA</li>
+  <li>Southeast Asia Economic Science Association Conference, Bangkok</li>
 </ul>
 
 <div style="margin:1rem 0 0.25rem 0rem;">
