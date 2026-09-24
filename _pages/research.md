@@ -68,6 +68,14 @@ author_profile: true
   with Sally Gainsbury, Robert Heirene, Emily Shaw, and Agnieszka Tymula<br>
 </li>
 
+<li>
+  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7515938">
+    Partial Conflict Revelation with Hidden Bias
+  </a><br>
+</li>
+
+
+
 </ul>
 
 ### Selected Work in Progress
