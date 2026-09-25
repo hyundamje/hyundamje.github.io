@@ -45,6 +45,12 @@ author_profile: true
   with Mahdi Akbari, Vinayak Alladi, Agnieszka Tymula, and Jingni Yang
 </li>
 
+<li>
+  <span style="color:#2a7ae2;">
+  Demand for Belief-Congruent Advice
+  </span><br>
+  with Minseo Choi and Jeong Yeol Kim<br>
+</li>
 
 <li>
   <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6171586">
@@ -88,12 +94,6 @@ author_profile: true
   with Daeyoung Jeong and Sora Youn<br>
 </li>
 
-<li>
-  <span style="color:#2a7ae2;">
-  Demand for Belief-Congruent Advice
-  </span><br>
-  with Minseo Choi and Jeong Yeol Kim<br>
-</li>
 
 <li>
   <span style="color:#2a7ae2;">
