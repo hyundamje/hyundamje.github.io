@@ -37,7 +37,7 @@ author_profile: true
   <li>University of Osaka</li>
   <li>Korean Econometric Society Summer Conference, Seoul</li>
   <li>Hanyang University ERICA</li>
-  <li>Southeast Asia Economic Science Association Conference, Bangkok</li>
+  <li>Economic Science Association Southeast Asia Meeting, Bangkok</li>
 </ul>
 
 <div style="margin:1rem 0 0.25rem 0rem;">
@@ -46,7 +46,7 @@ author_profile: true
 
 <ul style="margin-top:0.25rem; list-style-type:circle;">
   <li>Binghamton University</li>
-  <li>Asia-Pacific Economic Science Association Conference, Osaka</li>
+  <li>Economic Science Association Asia-Pacific Meeting, Osaka</li>
   <li>University of Melbourne</li>
   <li>Heidelberg University</li>
   <li>Kyung Hee University</li>
@@ -64,37 +64,37 @@ author_profile: true
   <li>Korea Experimental and Behavioral Economics Association Winter Workshop, Seoul</li>
   <li>NUS Applied Economics Student Workshop, Online</li>
   <li>Sydney Experimental Brownbag Seminar, Sydney</li>
-  <li>Asia-Pacific Economic Science Association Conference, Singapore</li>
+  <li>Economic Science Association Asia-Pacific Meeting, Singapore</li>
   <li>Caltech Behavioral/Experimental Workshop, Pasadena</li>
   <li>Pre-FUR Sydney Neuroeconomics of Disadvantage Workshop, Sydney</li>
   <li>Foundations of Utility and Risk Conference, Brisbane</li>
   <li>Annual Australia New Zealand Workshop in Experimental Economics, Canberra</li>
-  <li>Economic Science Association North American Conference, Columbus</li>
+  <li>Economic Science Association North American Meeting, Columbus</li>
 </ul>
 
 <div style="color:#2a7ae2; margin:1rem 0 0.25rem 0rem;">2023</div>
 <ul style="margin-top:0.25rem; list-style-type:circle;">
   <li>National Taipei University</li>
-  <li>Asia-Pacific Economic Science Association Conference, Seoul</li>
+  <li>Economic Science Association Asia-Pacific Meeting, Seoul</li>
   <li>Annual Australia New Zealand Workshop in Experimental Economics, Melbourne</li>
   <li>The Korean Econometric Society Monthly Seminar, Online</li>
 </ul>
 
 <div style="color:#2a7ae2; margin:1rem 0 0.25rem 0rem;">2022</div>
 <ul style="margin-top:0.25rem; list-style-type:circle;">
-  <li>World Economic Science Association Conference, Boston</li>
+  <li>Economic Science Association World Meeting, Boston</li>
   <li>Society for Experimental Finance Conference, Bonn</li>
   <li>Foundations of Utility and Risk Conference, Ghent</li>
   <li>The Korea-America Economic Association Job Market Conference, Online</li>
   <li>Texas Economic Theory Camp, Houston</li>
-  <li>Economic Science Association North American Conference, Santa Barbara</li>
+  <li>Economic Science Association North American Meeting, Santa Barbara</li>
   <li>Economic Science Association Job Market Seminar, Online</li>
 </ul>
 
 <div style="color:#2a7ae2; margin:1rem 0 0.25rem 0rem;">2021</div>
 <ul style="margin-top:0.25rem; list-style-type:circle;">
   <li>Economic Science Association Global Online Around-the-Clock Conference, Online</li>
-  <li>Economic Science Association North American Conference, Tucson</li>
+  <li>Economic Science Association North American Meeting, Tucson</li>
   <li>European Winter Meetings of the Econometric Society, Online</li>
 </ul>
 
