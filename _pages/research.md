@@ -72,6 +72,7 @@ author_profile: true
     Socioeconomic Status and Risk-Taking Anomalies: Evidence from Online Gambling
   </a><br>
   with Sally Gainsbury, Robert Heirene, Emily Shaw, and Agnieszka Tymula<br>
+  <strong>R&R, Journal of Behavioral and Experimental Economics </strong>
 </li>
 
 <li>
