@@ -36,6 +36,7 @@ author_profile: true
   <li>Sophia University</li>   
   <li>University of Osaka</li>
   <li>Korean Econometric Society Summer Conference, Seoul</li>
+  <li>Southern University of Science and Technology</li>
   <li>Hanyang University ERICA</li>
   <li>Economic Science Association Southeast Asia Meeting, Bangkok</li>
 </ul>
