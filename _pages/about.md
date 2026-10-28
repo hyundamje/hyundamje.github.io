@@ -14,7 +14,7 @@ redirect_from:
        style="border-radius: 10px;" />
 </div>
 <p style="font-size: 0.875em; text-align: center; margin-top: 10px;">
-  Photo by <a href="https://sites.google.com/view/hyukjunkwon" target="_blank">Hyukjun Kwon</a>
+  In Seochon, photo by <a href="https://sites.google.com/view/hyukjunkwon" target="_blank">Hyukjun Kwon</a>
 </p>
 
 <div style="max-width: 700px; margin: 30px auto; line-height: 1.5;">
